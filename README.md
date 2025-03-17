@@ -5,11 +5,11 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I have interest in Data Analytics & Engineering, Machine Learning & AI 
-- 🌱 I’m currently upskilling in Data Engineering
+- 🔭 I have interest in Data Analytics & Engineering, Machine Learning & AI. 
+- 🌱 I’m currently upskilling in Data Engineering.
 - 👯 I’m looking to collaborate on Data Engineering & Analytics, ML/AI projects. 
 - 🤔 I’m looking for help with any remote (Germany/Europe/USA) or onsite student jobs in Munich/Passau Germany.
-- 📫 How to reach me: blessingasare29@gmail.com
+- 📫 How to reach me: blessingasare29@gmail.com.
 - ⚡ Fun fact: Ich lerne Deutsch und werde es bald perfekt können.
 
 <h3 align="left">Connect with me:</h3>
