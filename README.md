@@ -3,7 +3,7 @@
 
 <!--**PasBless1/PasBless1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
 - 🔭 I have interest in Data Analtyics & Engineering, Machine Learning & AI 
 - 🌱 I’m currently upskilling in Data Engineering
