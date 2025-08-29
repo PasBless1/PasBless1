@@ -9,7 +9,7 @@ On this GitHub, you will find my projects that range from data analysis, busines
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I have interest in Data Analytics & Engineering, Machine Learning & AI. 
+- 🔭 I have interest in Data Engineering, Machine Learning, Deep Learning & AI Applications in Healthcare. 
 - 🌱 I’m currently upskilling in Data Engineering.
 - 👯 I’m looking to collaborate on Data Engineering & Analytics, ML/AI projects. 
 - 🤔 I’m looking for help with any remote (Germany/Europe/USA) or onsite student jobs in Munich/Passau Germany.
