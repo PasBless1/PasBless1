@@ -12,7 +12,7 @@ On this GitHub, you will find my projects that range from data analysis, busines
 - 🔭 I have interest in Data Engineering, Machine Learning, Deep Learning & AI Applications in Healthcare. 
 - 🌱 I’m currently upskilling in Data Engineering.
 - 👯 I’m looking to collaborate on Data Engineering & Analytics, ML/AI projects. 
-- 🤔 I’m looking for help with any remote (Germany/Europe/USA) or onsite student jobs in Munich/Passau Germany.
+- 🤔 I’m looking for help with any remote or on-site student work in Germany.
 - 📫 How to reach me: blessingasare29@gmail.com.
 - ⚡ Fun fact: Ich lerne Deutsch und werde es bald perfekt können.
 
