@@ -1,6 +1,6 @@
 ## Hello, I am Blessing Asare 👋
 
-I am a Digital Health MSc candidate and Data Engineer with experience delivering end-to-end machine learning systems for real-world health data. My research focuses on trustworthy and privacy-preserving clinical ML, including explainability, federated learning across institutions, and model calibration and uncertainty. I bring strong skills in Python, PyTorch, scikit-learn, FastAPI, and SQL, and experience in building reproducible ETL pipelines and evaluations that translate into deployable, clinician-facing tools.. Currently, I’m exploring the intersection of data engineering, data analysis, business strategy, and creative development, always striving to integrate data visualization, SQL, Power BI, and Python in my projects.
+I am a Digital Health MSc candidate and Data Engineer with experience in delivering end-to-end machine learning systems for real-world health data. My research focuses on trustworthy and privacy-preserving clinical ML, including explainability, federated learning across institutions, and model calibration and uncertainty. I bring strong skills in Python, PyTorch, scikit-learn, FastAPI, and SQL, and experience in building reproducible ETL pipelines and evaluations that translate into deployable, clinician-facing tools.. Currently, I’m exploring the intersection of data engineering, data analysis, business strategy, and creative development, always striving to integrate data visualization, SQL, Power BI, and Python in my projects.
 
 On this GitHub, you will find my projects that range from data analysis, business insights, and machine learning to data engineering. I am continuously learning and experimenting with new techniques and tools to further enhance my skills. Whether it’s through data pipelines, predictive models, or interactive dashboards, I focus on creating solutions that are not only technically sound but also user-friendly and impactful.
 
@@ -9,7 +9,7 @@ On this GitHub, you will find my projects that range from data analysis, busines
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I have interest in Data Engineering, Machine Learning, Deep Learning & AI Applications in Healthcare. 
+- 🔭 I have interest in Data Engineering, Machine Learning, Deep Learning & AI Applications in Medical Imaging/Healthcare. 
 - 🌱 I’m currently upskilling in Data Engineering.
 - 👯 I’m looking to collaborate on Data Engineering & Analytics, ML/AI projects. 
 - 🤔 I’m looking for help with any remote or on-site student work in Germany.
