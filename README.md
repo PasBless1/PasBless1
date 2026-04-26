@@ -8,8 +8,6 @@ On this GitHub, you will find projects spanning medical image analysis, machine 
 
 - 🔭 Interests: Data Engineering, ML/AI, Deep Learning, and AI Applications in Medical Imaging & Healthcare
 - 🌱 Currently completing my MSc thesis on hierarchical deep learning for diabetic retinopathy detection
-- 📄 Peer-reviewed publication in computational imaging · First-author paper submitted to IEEE iAims 2026
-- 🏅 IBM Data Engineering Professional Certificate
 - 👯 Open to collaborating on Data Engineering, Health ML/AI, and Analytics projects
 - 🔍 Actively exploring PhD opportunities in Medical AI and Trustworthy ML
 - 🤔 Looking for remote or on-site student work (HiWi / research assistant) in Germany
