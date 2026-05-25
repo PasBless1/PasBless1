@@ -64,8 +64,8 @@ I am a **Data and Machine Learning Engineer**  specializing in **trustworthy AI 
 
 | **Type** | **Title** | **Venue** | **Status** |
 |----------|-----------|----------|-----------|
-| 📄 **Peer-Reviewed Journal** | BuDb: A Curated Drug Discovery Database for Buruli Ulcer | *Journal of Integrated Bioinformatics* (2023) | ✅ Published |
-| 🏥 **Conference Paper** | [Submitted] Trustworthy AI in Diabetic Retinopathy Detection | IEEE iAims 2026 | 📤 Under Review |
+| 📄 **Peer-Reviewed Journal** | BuDb: A Curated Drug Discovery Database for Buruli Ulcer | *Journal of Integrated Bioinformatics* (2022) | ✅ Published |
+| 🏥 **Conference Paper** | [Submitted] Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection | IEEE iAims 2026 | 📤 Under Review |
 
 **Research Contributions:**
 - Multi-scale hierarchical architectures for medical image analysis
@@ -92,7 +92,7 @@ I am a **Data and Machine Learning Engineer**  specializing in **trustworthy AI 
 #### 📄 **BuDb: A Curated Drug Discovery Database for Buruli Ulcer** *(Peer-Reviewed Publication)*
 > Undergraduate thesis published in a peer-reviewed journal. Designed and developed BuDb, a curated bioinformatics database to accelerate drug discovery for Buruli ulcer — a neglected tropical disease affecting vulnerable populations. This work bridges bioinformatics and real-world public health challenges.
 >
-> **Published in:** *Journal of Integrated Bioinformatics*, 2023
+> **Published in:** *Journal of Integrated Bioinformatics*, 2022
 >
 > `Bioinformatics` `Drug Discovery` `Database Design` `Neglected Tropical Diseases` `Open Science`
 
@@ -110,7 +110,7 @@ I am a **Data and Machine Learning Engineer**  specializing in **trustworthy AI 
 ### 💪 Research Impact & Highlights
 
 **Publications & Recognition:**
-- ✅ 1 Peer-Reviewed Journal Publication (*Journal of Integrated Bioinformatics*, 2023)
+- ✅ 1 Peer-Reviewed Journal Publication (*Journal of Integrated Bioinformatics*, 2022)
 - 📤 1 First-Author Conference Paper Under Review (IEEE iAims 2026)
 - 🎓 MSc Thesis on Clinical AI (Hierarchical Deep Learning for DR Detection)
 
