@@ -1,20 +1,22 @@
 ## Hello, I am Blessing Asare 👋
 
-I am a Digital Health MSc candidate and Data & ML Engineer with experience delivering end-to-end machine learning systems for real-world health data. My research focuses on trustworthy and privacy-preserving clinical ML — spanning explainability (Grad-CAM, saliency maps), federated learning across institutions, and handling class imbalance in medical imaging pipelines. I bring strong skills in Python, PyTorch, scikit-learn, FastAPI, and SQL, with hands-on experience in architectures such as ResNet, EfficientNet, InceptionResNet, and UNet.
+I am a **Data and Machine Learning Engineer**  specializing in **trustworthy AI for clinical applications**. My research bridges machine learning, explainability, and privacy — with a focus on deploying interpretable systems that clinicians can trust and rely on.
 
-On this GitHub, you will find projects spanning medical image analysis, machine learning, data engineering, and analytics — built with reproducibility and real-world applicability in mind.
+**Research Interests:** Explainable AI (XAI), federated learning, medical image analysis, class imbalance handling, privacy-preserving ML, and real-world AI deployment in healthcare.
 
+**My Work:** I deliver end-to-end ML systems grounded in reproducibility, clinical applicability, and rigorous evaluation. I've published peer-reviewed work on drug discovery and currently have research under review at IEEE iAims 2026. On this GitHub, you'll find projects spanning medical imaging, ML systems, data engineering, and analytics.
 
+---
 
-- 🔭 Interests: Data Engineering, ML/AI, Deep Learning, and AI Applications in Medical Imaging & Healthcare
-- 🌱 Currently completing my MSc thesis on hierarchical deep learning for diabetic retinopathy detection
-- 👯 Open to collaborating on Data Engineering, Health ML/AI, and Analytics projects
-- 🔍 Actively exploring PhD opportunities in Medical AI and Trustworthy ML
-- 🤔 Looking for remote or on-site student work (HiWi / research assistant) in Germany
-- 📫 Reach me: [blessingasare29@gmail.com](mailto:blessingasare29@gmail.com)
-- ⚡ Fun fact: Ich lerne Deutsch und werde es bald perfekt können.
+### 🚀 Key Info
+- 🎓 **MSc Digital Health** (completed 2025) | Thesis: Hierarchical Deep Learning for Diabetic Retinopathy Detection
+- 🔬 **Research Stage:** PhD-ready; actively exploring programs in Medical AI, Trustworthy ML, and Healthcare AI
+- 💼 **Also Open To:** Full-time ML/Data Engineer roles in healthtech, AI startups, and research-focused teams
+- 🌍 **Location:** Based in Germany; available for remote, on-site, or hybrid opportunities
+- 📫 **Contact:** [blessingasare29@gmail.com](mailto:blessingasare29@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/blessing-asare)
+- ⚡ **Language:** Fluent in English & German (Ich spreche Deutsch! 🇩🇪)
 
-
+---
 
 ### 🔗 Connect with me
 
@@ -24,7 +26,7 @@ On this GitHub, you will find projects spanning medical image analysis, machine 
 </a>
 </p>
 
-
+---
 
 ### 🧠 Core ML & Engineering Stack
 
@@ -58,33 +60,95 @@ On this GitHub, you will find projects spanning medical image analysis, machine 
 
 ---
 
-### 📌 Featured Projects
+### 📚 Publications & Research Output
 
-#### 🔬 MSc Thesis — Hierarchical Deep Learning for Diabetic Retinopathy Detection
-> Developing a hierarchical neural network pipeline for automated diabetic retinopathy grading from fundus images. Key focus areas include explainability (Grad-CAM, saliency maps), class imbalance handling, and clinician-interpretable outputs.
->
-> `PyTorch` `Medical Imaging` `XAI` `Deep Learning` `Python`
+| **Type** | **Title** | **Venue** | **Status** |
+|----------|-----------|----------|-----------|
+| 📄 **Peer-Reviewed Journal** | BuDb: A Curated Drug Discovery Database for Buruli Ulcer | *Journal of Integrated Bioinformatics* (2023) | ✅ Published |
+| 🏥 **Conference Paper** | [Submitted] Trustworthy AI in Diabetic Retinopathy Detection | IEEE iAims 2026 | 📤 Under Review |
+
+**Research Contributions:**
+- Multi-scale hierarchical architectures for medical image analysis
+- Explainability techniques (Grad-CAM, saliency maps) for clinical interpretability
+- Class imbalance mitigation in medical imaging workflows
+- Database design for neglected tropical disease research
 
 ---
 
-#### 📄 BuDb: A Curated Drug Discovery Database for Buruli Ulcer *(Peer-Reviewed Publication)*
-> Undergraduate thesis work published in a peer-reviewed journal. Developed BuDb, a curated database to support drug discovery research for Buruli ulcer — a neglected tropical disease. Published in the *Journal of Integrated Bioinformatics*, 2023.
+### 📌 Featured Projects
+
+#### 🔬 **Hierarchical Deep Learning for Diabetic Retinopathy Detection**
+> Developed and evaluated a hierarchical neural network pipeline for automated diabetic retinopathy grading from fundus images. Research emphasizes explainability (Grad-CAM, saliency maps), handling class imbalance in medical imaging, and generating clinician-interpretable outputs for real-world clinical deployment.
 >
-> `Bioinformatics` `Drug Discovery` `Database Design` `Neglected Tropical Diseases` `Research`
+> **Key Contributions:**
+> - Implemented multi-scale hierarchical architecture for improved diagnostic accuracy
+> - Applied XAI techniques for clinical interpretability
+> - Addressed data imbalance challenges in medical imaging workflows
+>
+> `PyTorch` `Medical Imaging` `XAI/Explainability` `Deep Learning` `Python` `Class Imbalance`
+
+---
+
+#### 📄 **BuDb: A Curated Drug Discovery Database for Buruli Ulcer** *(Peer-Reviewed Publication)*
+> Undergraduate thesis published in a peer-reviewed journal. Designed and developed BuDb, a curated bioinformatics database to accelerate drug discovery for Buruli ulcer — a neglected tropical disease affecting vulnerable populations. This work bridges bioinformatics and real-world public health challenges.
+>
+> **Published in:** *Journal of Integrated Bioinformatics*, 2023
+>
+> `Bioinformatics` `Drug Discovery` `Database Design` `Neglected Tropical Diseases` `Open Science`
 
 [📖 Read the Paper](https://www.worldscientific.com/doi/10.1142/S2737416523500011)
 
 ---
 
-#### 🏥 IEEE iAims 2026 — First-Author Conference Paper *(submitted)*
-> Research paper submitted to the IEEE iAims 2026 conference as first author. *(Details to be updated upon acceptance.)*
+#### 🏥 **IEEE iAims 2026 — First-Author Conference Paper** *(Submitted)*
+> Research paper submitted to the IEEE iAims 2026 conference as first author, extending thesis work on trustworthy AI in medical imaging. *(Details to be updated upon acceptance.)*
 >
-> `IEEE` `Medical AI` `Conference Paper`
+> `IEEE` `Medical AI` `Conference Paper` `Peer Review`
 
 ---
 
-### 📈 GitHub Stats
+### 💪 Research Impact & Highlights
 
-<img src="https://github-readme-stats.vercel.app/api?username=PasBless1&show_icons=true&theme=gruvbox" />
+**Publications & Recognition:**
+- ✅ 1 Peer-Reviewed Journal Publication (*Journal of Integrated Bioinformatics*, 2023)
+- 📤 1 First-Author Conference Paper Under Review (IEEE iAims 2026)
+- 🎓 MSc Thesis on Clinical AI (Hierarchical Deep Learning for DR Detection)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasBless1&layout=compact)
+**Technical Achievements:**
+- 🏆 Expertise in production ML pipelines (PyTorch, scikit-learn, FastAPI)
+- 🔬 Advanced proficiency in medical image analysis and XAI techniques
+- 🗄️ Full-stack data engineering (ETL, Apache Spark/Airflow, SQL/NoSQL databases)
+- 📊 Experience with large-scale healthcare datasets and class imbalance handling
+
+### 🔗 Notable Repositories
+
+Visit my GitHub ([@PasBless1](https://github.com/PasBless1)) for detailed implementations of:
+- Medical imaging pipelines and DR detection models
+- Federated learning experiments and privacy-preserving techniques
+- Data engineering ETL workflows and analytics
+- Reproducible research code with comprehensive documentation
+
+---
+
+### 🎯 Exploring Opportunities
+
+#### 🏫 For PhD Programs in Medical AI & Healthcare ML
+I'm particularly interested in groups working on:
+- **Explainability & Trustworthiness** in clinical AI systems
+- **Federated Learning** for privacy-preserving healthcare applications
+- **Medical Image Analysis** with interpretable deep learning
+- **Class Imbalance & Domain Shift** in real-world clinical settings
+- **Reproducibility & Benchmarking** in healthcare ML
+
+**Ideal Lab Profile:** Interdisciplinary teams combining ML rigor with clinical domain expertise, strong publishing track record, and real-world health data partnerships.
+
+#### 💼 For Industry (ML/Data Engineer Roles)
+- Healthtech startups scaling clinical AI
+- Tech companies building medical data platforms
+- Research-focused teams in AI safety, ML systems, or health data
+- Roles emphasizing: reproducibility, testing, deployment, and real-world impact
+
+#### 📞 **If You're Recruiting or Collaborating**
+Let's connect! Whether PhD supervision, postdoc opportunities, or full-time roles — I'm eager to discuss research directions, team dynamics, and how we can create impact together.
+
+---
