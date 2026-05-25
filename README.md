@@ -14,7 +14,7 @@ I am a **Data and Machine Learning Engineer**  specializing in **trustworthy AI 
 - 💼 **Also Open To:** Full-time ML/Data Engineer roles in healthtech, AI startups, and research-focused teams
 - 🌍 **Location:** Based in Germany; available for remote, on-site, or hybrid opportunities
 - 📫 **Contact:** [blessingasare29@gmail.com](mailto:blessingasare29@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/blessing-asare)
-- ⚡ **Language:** Fluent in English & German (Ich spreche Deutsch! 🇩🇪)
+- ⚡ **Language:** Fluent in English but still improving with my German
 
 ---
 
