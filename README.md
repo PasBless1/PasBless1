@@ -9,7 +9,7 @@ I am a **Data and Machine Learning Engineer**  specializing in **trustworthy AI 
 ---
 
 ### 🚀 Key Info
-- 🎓 **MSc Digital Health** (completed 2025) | Thesis: Hierarchical Deep Learning for Diabetic Retinopathy Detection
+- 🎓 **MSc Digital Health** (completed 2026) | Thesis: Hierarchical Deep Learning for Diabetic Retinopathy Detection
 - 🔬 **Research Stage:** PhD-ready; actively exploring programs in Medical AI, Trustworthy ML, and Healthcare AI
 - 💼 **Also Open To:** Full-time ML/Data Engineer roles in healthtech, AI startups, and research-focused teams
 - 🌍 **Location:** Based in Germany; available for remote, on-site, or hybrid opportunities
