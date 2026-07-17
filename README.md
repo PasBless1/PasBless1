@@ -65,7 +65,7 @@ I am a **Data and Machine Learning Engineer**  specializing in **trustworthy AI 
 | **Type** | **Title** | **Venue** | **Status** |
 |----------|-----------|----------|-----------|
 | 📄 **Peer-Reviewed Journal** | BuDb: A Curated Drug Discovery Database for Buruli Ulcer | *Journal of Integrated Bioinformatics* (2022) | ✅ Published |
-| 🏥 **Conference Paper** | [Submitted] Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection | IEEE iAims 2026 | ✅ Accepted for Publication |
+| 🏥 **Conference Paper** | Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection | IEEE iAims 2026 | ✅ Accepted for Publication |
 
 **Research Contributions:**
 - Multi-scale hierarchical architectures for medical image analysis
