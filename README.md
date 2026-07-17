@@ -100,8 +100,8 @@ I am a **Data and Machine Learning Engineer**  specializing in **trustworthy AI 
 
 ---
 
-#### 🏥 **IEEE iAims 2026 — First-Author Conference Paper** *(Submitted)*
-> Research paper submitted to the IEEE iAims 2026 conference as first author, extending thesis work on trustworthy AI in medical imaging. *(Details to be updated upon acceptance.)*
+#### 🏥 **IEEE iAims 2026 — First-Author Conference Paper** *(Accepted for Publication)*
+> Research paper submitted to the IEEE iAims 2026 conference as first author, extending thesis work on trustworthy AI in medical imaging. *(Details to be updated upon publication.)*
 >
 > `IEEE` `Medical AI` `Conference Paper` `Peer Review`
 
@@ -110,8 +110,8 @@ I am a **Data and Machine Learning Engineer**  specializing in **trustworthy AI 
 ### 💪 Research Impact & Highlights
 
 **Publications & Recognition:**
-- ✅ 1 Peer-Reviewed Journal Publication (*Journal of Integrated Bioinformatics*, 2022)
-- 📤 1 First-Author Conference Paper Under Review (IEEE iAims 2026)
+- ✅ Peer-Reviewed Journal Publication (*Journal of Computational Biophysics and Chemistry*, 2022)
+- 📤 First-Author Conference Paper Accepted for publication (IEEE iAims 2026)
 - 🎓 MSc Thesis on Clinical AI (Hierarchical Deep Learning for DR Detection)
 
 **Technical Achievements:**
