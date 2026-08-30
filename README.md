@@ -1,4 +1,4 @@
-## Hello, I am Blessing Asare
+## Hello, I am Blessing Asare 👋
 
 I am a data and machine learning engineer working on trustworthy AI for healthcare. My projects combine medical imaging, wearable sensing, explainability, uncertainty estimation, and reproducible ML systems.
 
@@ -19,8 +19,8 @@ I have completed an MSc in Digital Health, co-authored a peer-reviewed publicati
 
 ### Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/blessing-asare)
-- [Email](mailto:blessingasare29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-asare)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessingasare29@gmail.com)
 
 ---
 
@@ -33,6 +33,15 @@ I have completed an MSc in Digital Health, co-authored a peer-reviewed publicati
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+
+### Medical imaging stack
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](#)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
+[![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](#)
+[![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)](#)
 
 ### Data engineering and databases
 
