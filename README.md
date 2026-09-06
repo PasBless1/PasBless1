@@ -52,51 +52,51 @@ I have completed an MSc in Digital Health, co-authored a peer-reviewed publicati
 
 ## Technical stack
 
-### Core ML and engineering stack
+#### Core ML and engineering stack
 
 <p>
-  <img src="./assets/stack/python.svg" alt="Python" width="111" height="36" />
-  <img src="./assets/stack/pytorch.svg" alt="PyTorch" width="120" height="36" />
-  <img src="./assets/stack/scikitlearn.svg" alt="scikit-learn" width="168" height="36" />
-  <img src="./assets/stack/fastapi.svg" alt="FastAPI" width="120" height="36" />
-  <img src="./assets/stack/numpy.svg" alt="NumPy" width="102" height="36" />
-  <img src="./assets/stack/pandas.svg" alt="Pandas" width="111" height="36" />
-  <img src="./assets/stack/jupyter.svg" alt="Jupyter Notebook" width="206" height="36" />
+  <img src="./assets/stack/python.svg" alt="Python" width="96" height="26" />
+  <img src="./assets/stack/pytorch.svg" alt="PyTorch" width="103" height="26" />
+  <img src="./assets/stack/scikitlearn.svg" alt="scikit-learn" width="131" height="26" />
+  <img src="./assets/stack/fastapi.svg" alt="FastAPI" width="97" height="26" />
+  <img src="./assets/stack/numpy.svg" alt="NumPy" width="89" height="26" />
+  <img src="./assets/stack/pandas.svg" alt="Pandas" width="96" height="26" />
+  <img src="./assets/stack/jupyter.svg" alt="Jupyter Notebook" width="170" height="26" />
 </p>
 
-### Medical imaging stack
+#### Medical imaging stack
 
 <p>
-  <img src="./assets/stack/tensorflow.svg" alt="TensorFlow" width="149" height="36" />
-  <img src="./assets/stack/keras.svg" alt="Keras" width="102" height="36" />
-  <img src="./assets/stack/opencv.svg" alt="OpenCV" width="111" height="36" />
-  <img src="./assets/stack/pillow.svg" alt="Pillow" width="111" height="36" />
-  <img src="./assets/stack/mlflow.svg" alt="MLflow" width="111" height="36" />
-  <img src="./assets/stack/dvc.svg" alt="DVC" width="82" height="36" />
+  <img src="./assets/stack/tensorflow.svg" alt="TensorFlow" width="130" height="26" />
+  <img src="./assets/stack/keras.svg" alt="Keras" width="86" height="26" />
+  <img src="./assets/stack/opencv.svg" alt="OpenCV" width="95" height="26" />
+  <img src="./assets/stack/pillow.svg" alt="Pillow" width="92" height="26" />
+  <img src="./assets/stack/mlflow.svg" alt="MLflow" width="98" height="26" />
+  <img src="./assets/stack/dvc.svg" alt="DVC" width="70" height="26" />
 </p>
 
-### Data engineering and databases
+#### Data engineering and databases
 
 <p>
-  <img src="./assets/stack/mysql.svg" alt="MySQL" width="102" height="36" />
-  <img src="./assets/stack/postgresql.svg" alt="PostgreSQL" width="149" height="36" />
-  <img src="./assets/stack/ibm.svg" alt="IBM Db2" width="120" height="36" />
-  <img src="./assets/stack/mongodb.svg" alt="MongoDB" width="120" height="36" />
-  <img src="./assets/stack/apachekafka.svg" alt="Apache Kafka" width="168" height="36" />
-  <img src="./assets/stack/apachespark.svg" alt="Apache Spark" width="168" height="36" />
-  <img src="./assets/stack/apachehadoop.svg" alt="Apache Hadoop" width="178" height="36" />
-  <img src="./assets/stack/apacheairflow.svg" alt="Apache Airflow" width="187" height="36" />
-  <img src="./assets/stack/docker.svg" alt="Docker" width="111" height="36" />
-  <img src="./assets/stack/gnubash.svg" alt="Shell Script" width="168" height="36" />
-  <img src="./assets/stack/etl.svg" alt="ETL" width="82" height="36" />
+  <img src="./assets/stack/mysql.svg" alt="MySQL" width="88" height="26" />
+  <img src="./assets/stack/postgresql.svg" alt="PostgreSQL" width="126" height="26" />
+  <img src="./assets/stack/ibm.svg" alt="IBM Db2" width="97" height="26" />
+  <img src="./assets/stack/mongodb.svg" alt="MongoDB" width="109" height="26" />
+  <img src="./assets/stack/apachekafka.svg" alt="Apache Kafka" width="140" height="26" />
+  <img src="./assets/stack/apachespark.svg" alt="Apache Spark" width="140" height="26" />
+  <img src="./assets/stack/apachehadoop.svg" alt="Apache Hadoop" width="151" height="26" />
+  <img src="./assets/stack/apacheairflow.svg" alt="Apache Airflow" width="155" height="26" />
+  <img src="./assets/stack/docker.svg" alt="Docker" width="95" height="26" />
+  <img src="./assets/stack/gnubash.svg" alt="Shell Script" width="132" height="26" />
+  <img src="./assets/stack/etl.svg" alt="ETL" width="67" height="26" />
 </p>
 
-### Analytics and visualisation
+#### Analytics and visualisation
 
 <p>
-  <img src="./assets/stack/matplotlib.svg" alt="Matplotlib" width="149" height="36" />
-  <img src="./assets/stack/powerbi.svg" alt="Power BI" width="130" height="36" />
-  <img src="./assets/stack/tableau.svg" alt="Tableau" width="120" height="36" />
+  <img src="./assets/stack/matplotlib.svg" alt="Matplotlib" width="123" height="26" />
+  <img src="./assets/stack/powerbi.svg" alt="Power BI" width="107" height="26" />
+  <img src="./assets/stack/tableau.svg" alt="Tableau" width="101" height="26" />
 </p>
 
 <a id="publications-and-research-output"></a>
