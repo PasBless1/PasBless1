@@ -4,11 +4,12 @@
 
 <p align="center">
   <strong>Incoming PhD Researcher · TU Dublin</strong><br />
-  Research Ireland Scholar · MSc Digital Health
+  <em>Research Ireland Scholar · MSc Digital Health</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/blessing-asare"><img src="https://img.shields.io/badge/LinkedIn-14263E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=79DCD6" alt="LinkedIn" /></a>
+  <a href="https://blessingasare.netlify.app/"><img src="./assets/portfolio-link.svg" alt="Portfolio website" height="28" /></a>
   <a href="mailto:blessingasare29@gmail.com"><img src="https://img.shields.io/badge/Email-14263E?style=for-the-badge&amp;logo=gmail&amp;logoColor=79DCD6" alt="Email" /></a>
 </p>
 
@@ -36,7 +37,7 @@ I have completed an MSc in Digital Health, co-authored a peer-reviewed publicati
 
 <a id="about-me"></a>
 
-## 01 / About me
+## About me
 
 | Profile | Details |
 | :--- | :--- |
@@ -49,34 +50,58 @@ I have completed an MSc in Digital Health, co-authored a peer-reviewed publicati
 
 <a id="technical-stack"></a>
 
-## 02 / Technical stack
+## Technical stack
 
-<table>
-<tr>
-<td valign="top" width="28%"><strong>Core ML and engineering stack</strong></td>
-<td><img alt="Python" src="https://img.shields.io/badge/Python-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-14263E?style=flat-square&amp;labelColor=14263E" /><br />
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-14263E?style=flat-square&amp;labelColor=14263E" /></td>
-</tr>
-<tr>
-<td valign="top" width="28%"><strong>Medical imaging stack</strong></td>
-<td><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="Keras" src="https://img.shields.io/badge/Keras-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="Pillow" src="https://img.shields.io/badge/Pillow-14263E?style=flat-square&amp;labelColor=14263E" /><br />
-<img alt="MLflow" src="https://img.shields.io/badge/MLflow-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="DVC" src="https://img.shields.io/badge/DVC-14263E?style=flat-square&amp;labelColor=14263E" /></td>
-</tr>
-<tr>
-<td valign="top" width="28%"><strong>Data engineering and databases</strong></td>
-<td><img alt="MySQL" src="https://img.shields.io/badge/MySQL-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="IBM Db2" src="https://img.shields.io/badge/IBM_Db2-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-14263E?style=flat-square&amp;labelColor=14263E" /><br />
-<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache_Hadoop-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-14263E?style=flat-square&amp;labelColor=14263E" /><br />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="ETL" src="https://img.shields.io/badge/ETL-14263E?style=flat-square&amp;labelColor=14263E" /></td>
-</tr>
-<tr>
-<td valign="top" width="28%"><strong>Analytics and visualisation</strong></td>
-<td><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-14263E?style=flat-square&amp;labelColor=14263E" /> <img alt="Tableau" src="https://img.shields.io/badge/Tableau-14263E?style=flat-square&amp;labelColor=14263E" /></td>
-</tr>
-</table>
+### Core ML and engineering stack
+
+<p>
+  <img src="./assets/stack/python.svg" alt="Python" width="184" height="64" />
+  <img src="./assets/stack/pytorch.svg" alt="PyTorch" width="184" height="64" />
+  <img src="./assets/stack/scikitlearn.svg" alt="scikit-learn" width="184" height="64" />
+  <img src="./assets/stack/fastapi.svg" alt="FastAPI" width="184" height="64" />
+  <img src="./assets/stack/numpy.svg" alt="NumPy" width="184" height="64" />
+  <img src="./assets/stack/pandas.svg" alt="Pandas" width="184" height="64" />
+  <img src="./assets/stack/jupyter.svg" alt="Jupyter Notebook" width="184" height="64" />
+</p>
+
+### Medical imaging stack
+
+<p>
+  <img src="./assets/stack/tensorflow.svg" alt="TensorFlow" width="184" height="64" />
+  <img src="./assets/stack/keras.svg" alt="Keras" width="184" height="64" />
+  <img src="./assets/stack/opencv.svg" alt="OpenCV" width="184" height="64" />
+  <img src="./assets/stack/pillow.svg" alt="Pillow" width="184" height="64" />
+  <img src="./assets/stack/mlflow.svg" alt="MLflow" width="184" height="64" />
+  <img src="./assets/stack/dvc.svg" alt="DVC" width="184" height="64" />
+</p>
+
+### Data engineering and databases
+
+<p>
+  <img src="./assets/stack/mysql.svg" alt="MySQL" width="184" height="64" />
+  <img src="./assets/stack/postgresql.svg" alt="PostgreSQL" width="184" height="64" />
+  <img src="./assets/stack/ibm.svg" alt="IBM Db2" width="184" height="64" />
+  <img src="./assets/stack/mongodb.svg" alt="MongoDB" width="184" height="64" />
+  <img src="./assets/stack/apachekafka.svg" alt="Apache Kafka" width="184" height="64" />
+  <img src="./assets/stack/apachespark.svg" alt="Apache Spark" width="184" height="64" />
+  <img src="./assets/stack/apachehadoop.svg" alt="Apache Hadoop" width="184" height="64" />
+  <img src="./assets/stack/apacheairflow.svg" alt="Apache Airflow" width="184" height="64" />
+  <img src="./assets/stack/docker.svg" alt="Docker" width="184" height="64" />
+  <img src="./assets/stack/gnubash.svg" alt="Shell Script" width="184" height="64" />
+  <img src="./assets/stack/etl.svg" alt="ETL" width="184" height="64" />
+</p>
+
+### Analytics and visualisation
+
+<p>
+  <img src="./assets/stack/matplotlib.svg" alt="Matplotlib" width="184" height="64" />
+  <img src="./assets/stack/powerbi.svg" alt="Power BI" width="184" height="64" />
+  <img src="./assets/stack/tableau.svg" alt="Tableau" width="184" height="64" />
+</p>
 
 <a id="publications-and-research-output"></a>
 
-## 03 / Publications and research output
+## Publications and research output
 
 | Type | Title | Venue | Status |
 | --- | --- | --- | --- |
@@ -95,9 +120,9 @@ I have completed an MSc in Digital Health, co-authored a peer-reviewed publicati
 
 <a id="featured-projects"></a>
 
-## 04 / Featured projects
+## Featured projects
 
-### 01 · [Wearable joint-angle estimation](https://github.com/PasBless1/wearable-joint-angle-estimation)
+### [Wearable joint-angle estimation](https://github.com/PasBless1/wearable-joint-angle-estimation)
 
 An end-to-end machine learning pipeline for elbow flexion angle estimation from wearable IMU and EMG signals. The project evaluates generalisation with leave-one-subject-out cross-validation across 13 participants, uses bootstrap uncertainty quantification, and includes a FastAPI inference service.
 
@@ -111,7 +136,7 @@ An end-to-end machine learning pipeline for elbow flexion angle estimation from 
 
 ---
 
-### 02 · [Hierarchical deep learning for diabetic retinopathy detection](https://github.com/PasBless1/Full-MLOps-pipeline-for-DR-for-production)
+### [Hierarchical deep learning for diabetic retinopathy detection](https://github.com/PasBless1/Full-MLOps-pipeline-for-DR-for-production)
 
 My MSc thesis work develops a hierarchical deep learning pipeline for automated diabetic retinopathy grading from fundus images. The research focuses on clinically interpretable outputs, class imbalance, and reproducible evaluation.
 
@@ -127,7 +152,7 @@ Related release: [trained models and inference code](https://github.com/PasBless
 
 ---
 
-### 03 · [Brain MRI tumour segmentation](https://github.com/PasBless1/Brain-MRI-Tumor-Segmentation-Full-MLOps-pipeline)
+### [Brain MRI tumour segmentation](https://github.com/PasBless1/Brain-MRI-Tumor-Segmentation-Full-MLOps-pipeline)
 
 A full ML pipeline for automated brain tumour detection and segmentation from FLAIR MRI scans. The repository brings together model development, reproducible training, and deployment-oriented engineering.
 
@@ -135,7 +160,7 @@ A full ML pipeline for automated brain tumour detection and segmentation from FL
 
 ---
 
-### 04 · BuDb: A curated drug discovery database for Buruli ulcer
+### BuDb: A curated drug discovery database for Buruli ulcer
 
 I co-authored BuDb, a curated bioinformatics database for Buruli ulcer drug discovery. It brings together literature-verified and database-curated information on drug targets, compounds, existing drugs, ethnopharmacological plants, and the *Mycobacterium ulcerans* genome.
 
@@ -147,7 +172,7 @@ Published in: *Journal of Computational Biophysics and Chemistry*, 2023.
 
 ---
 
-### 05 · IEEE iAims 2026 conference paper
+### IEEE iAims 2026 conference paper
 
 My first-author paper, *Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection*, has been accepted for IEEE iAims 2026. It extends my thesis research on explainable medical imaging and diabetic retinopathy grading.
 
@@ -157,7 +182,7 @@ My first-author paper, *Hierarchical Deep Learning Framework for Diabetic Retino
 
 <a id="research-impact-and-technical-work"></a>
 
-## 05 / Research impact and technical work
+## Research impact and technical work
 
 **Publications and academic work:**
 
@@ -174,13 +199,13 @@ My first-author paper, *Hierarchical Deep Learning Framework for Diabetic Retino
 
 <a id="doctoral-research"></a>
 
-## 06 / Doctoral research
+## Doctoral research
 
 My PhD project, *Multimodal Ocular Imaging for Neurodegenerative Disease Biomarkers*, investigates how ocular imaging and AI can support the study of biomarkers for neurodegenerative disease. The work brings together ocular imaging, medical AI, and neuroscience, and is supported by Research Ireland at Technological University Dublin.
 
 <a id="notable-repositories"></a>
 
-## 07 / Notable repositories
+## Notable repositories
 
 You can explore the projects behind this profile here:
 
@@ -195,7 +220,7 @@ You can explore the projects behind this profile here:
 
 <a id="research-and-professional-interests"></a>
 
-## 08 / Research and professional interests
+## Research and professional interests
 
 ### Doctoral research
 
