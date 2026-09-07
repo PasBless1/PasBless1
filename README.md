@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header-animated.gif" alt="Blessing Asare — Medical Imaging AI Engineer. Incoming PhD Researcher at TU Dublin. From medical images to meaningful insights." width="100%" />
+  <img src="./assets/profile-header-static.svg" alt="Blessing Asare — Medical Imaging AI Engineer. Incoming PhD Researcher at TU Dublin. From medical images to meaningful insights." width="100%" />
 </p>
 
 <p align="center">
