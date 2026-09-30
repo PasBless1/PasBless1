@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Incoming PhD Researcher · TU Dublin</strong><br />
+  <strong>PhD Researcher · TU Dublin</strong><br />
   <em>Research Ireland Scholar · MSc Digital Health</em>
 </p>
 
@@ -31,7 +31,7 @@ I am a data and machine learning engineer working on trustworthy AI for healthca
 
 My research interests include explainable AI, medical image analysis, ocular imaging, neurodegenerative disease biomarkers, class imbalance, domain shift, and clinical evaluation. I care about models that are useful beyond the benchmark and clear enough for clinicians and researchers to interrogate.
 
-I have completed an MSc in Digital Health, co-authored a peer-reviewed publication on drug discovery for Buruli ulcer, and have a first-author paper accepted at IEEE iAims 2026. I am also an incoming PhD researcher at Technological University Dublin (TU Dublin) and a Research Ireland Scholar. This GitHub contains work in medical imaging, ML systems, data engineering, and analytics.
+I have completed an MSc in Digital Health, co-authored a peer-reviewed publication on drug discovery for Buruli ulcer, and have a first-author paper accepted at IEEE iAims 2026. I am a fully funded PhD researcher at Technological University Dublin (TU Dublin) and a Research Ireland Scholar. This GitHub contains work in medical imaging, ML systems, data engineering, and analytics.
 
 ---
 
@@ -42,7 +42,7 @@ I have completed an MSc in Digital Health, co-authored a peer-reviewed publicati
 | Profile | Details |
 | :--- | :--- |
 | **Education** | MSc Digital Health, completed in 2026. Thesis: Hierarchical Deep Learning for Diabetic Retinopathy Detection. |
-| **Scholarship** | Incoming fully funded PhD researcher at Technological University Dublin (TU Dublin) and Research Ireland Scholar. |
+| **Doctoral status** | Fully funded PhD researcher at TU Dublin and Research Ireland Scholar. |
 | **Doctoral project** | Doctoral project: *Multimodal Ocular Imaging for Neurodegenerative Disease Biomarkers*. |
 | **Opportunities** | Open to machine learning and data engineering roles in healthtech, AI startups, and research-focused teams. |
 | **Location & availability** | Based in Germany. Available for remote, hybrid, and on-site opportunities. |
