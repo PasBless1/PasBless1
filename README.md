@@ -33,8 +33,6 @@ I am a data and machine learning engineer working on trustworthy AI for healthca
 
 My research interests include explainable AI, medical image analysis, ocular imaging, neurodegenerative disease biomarkers, class imbalance, domain shift, and clinical evaluation. I care about models that are useful beyond the benchmark and clear enough for clinicians and researchers to interrogate.
 
-
-
 ---
 
 <a id="technical-stack"></a>
