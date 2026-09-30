@@ -1,12 +1,11 @@
 <a id="profile-overview"></a>
 
 <p align="center">
-  <img src="./assets/profile-header-static.svg" alt="Blessing Asare, PhD Researcher at TU Dublin and Research Ireland Scholar, working on medical imaging and trustworthy AI." width="100%" />
+  <img src="./assets/profile-header-static.svg" alt="Blessing Asare, Medical Imaging AI Engineer and PhD Researcher at TU Dublin; Research Ireland Scholar." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Research Ireland Scholar</strong> &nbsp;·&nbsp; <em>MSc Digital Health</em><br />
-  <sub>Ocular imaging &nbsp;·&nbsp; Neurodegenerative biomarkers &nbsp;·&nbsp; Trustworthy medical AI</sub>
+  <em>MSc Digital Health</em> &nbsp;·&nbsp; Ocular imaging &nbsp;·&nbsp; Neurodegenerative biomarkers
 </p>
 
 <p align="center">
