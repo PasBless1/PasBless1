@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>PhD Researcher · TU Dublin</strong><br />
-  <em>Research Ireland Scholar · MSc Digital Health</em>
+  <strong>Research Ireland Scholar</strong> &nbsp;·&nbsp; <em>MSc Digital Health</em><br />
+  <sub>Ocular imaging &nbsp;·&nbsp; Neurodegenerative biomarkers &nbsp;·&nbsp; Trustworthy medical AI</sub>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-### Hello, I am Blessing Asare 👋
+## Hello, I am Blessing Asare 👋
 
 I am a data and machine learning engineer working on trustworthy AI for healthcare. My projects combine medical imaging, wearable sensing, explainability, uncertainty estimation, and reproducible ML systems.
 
@@ -134,7 +134,7 @@ An end-to-end machine learning pipeline for elbow flexion angle estimation from 
 
 `Python` `Wearable Sensing` `IMU` `EMG` `Uncertainty Quantification` `FastAPI` `Docker`
 
----
+
 
 ### [Hierarchical deep learning for diabetic retinopathy detection](https://github.com/PasBless1/Full-MLOps-pipeline-for-DR-for-production)
 
@@ -150,7 +150,7 @@ Related release: [trained models and inference code](https://github.com/PasBless
 
 `PyTorch` `Medical Imaging` `Explainable AI` `Deep Learning` `Class Imbalance`
 
----
+
 
 ### [Brain MRI tumour segmentation](https://github.com/PasBless1/Brain-MRI-Tumor-Segmentation-Full-MLOps-pipeline)
 
@@ -158,7 +158,7 @@ A full ML pipeline for automated brain tumour detection and segmentation from FL
 
 `Python` `MRI` `Segmentation` `MLOps` `Medical AI`
 
----
+
 
 ### BuDb: A curated drug discovery database for Buruli ulcer
 
@@ -170,7 +170,7 @@ Published in: *Journal of Computational Biophysics and Chemistry*, 2023.
 
 `Bioinformatics` `Drug Discovery` `Database Design` `Neglected Tropical Diseases` `Open Science`
 
----
+
 
 ### IEEE iAims 2026 conference paper
 
@@ -178,7 +178,7 @@ My first-author paper, *Hierarchical Deep Learning Framework for Diabetic Retino
 
 `IEEE` `Medical AI` `Conference Paper` `Explainable AI`
 
----
+
 
 <a id="research-impact-and-technical-work"></a>
 
