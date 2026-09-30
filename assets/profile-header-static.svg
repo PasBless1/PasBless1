@@ -1,61 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc">
-  <title id="title">Blessing Asare — Medical Imaging and Trustworthy AI</title>
-  <desc id="desc">PhD Researcher at TU Dublin and Research Ireland Scholar, exploring ocular imaging and medical AI for settings with limited specialist infrastructure.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="680" viewBox="0 0 2048 680" role="img" aria-labelledby="title desc">
+  <title id="title">Blessing Asare — Medical Imaging AI Engineer</title>
+  <desc id="desc">PhD Researcher at TU Dublin and Research Ireland Scholar, working from medical images to meaningful insights.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071321"/>
-      <stop offset=".55" stop-color="#0b1e31"/>
-      <stop offset="1" stop-color="#10293a"/>
+      <stop offset="0" stop-color="#050708"/>
+      <stop offset=".52" stop-color="#080c10"/>
+      <stop offset="1" stop-color="#0a1116"/>
     </linearGradient>
-    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#48d9ce"/>
-      <stop offset="1" stop-color="#a2efc8"/>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#08c9d0" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#08c9d0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="scan">
+      <stop offset="0" stop-color="#06191b"/>
+      <stop offset=".72" stop-color="#031013"/>
+      <stop offset="1" stop-color="#071013"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12d4d4"/>
+      <stop offset="1" stop-color="#00aeb8"/>
     </linearGradient>
-    <radialGradient id="retina" cx=".48" cy=".48" r=".62">
-      <stop offset="0" stop-color="#e98d86"/>
-      <stop offset=".46" stop-color="#8f6579"/>
-      <stop offset="1" stop-color="#193a4d"/>
-    </radialGradient>
-    <radialGradient id="aura">
-      <stop offset="0" stop-color="#42d8cc" stop-opacity=".2"/>
-      <stop offset="1" stop-color="#42d8cc" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
-      <path d="M38 0H0V38" fill="none" stroke="#9db2c5" stroke-opacity=".055" stroke-width="1"/>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#c1d3d8" fill-opacity=".08"/>
     </pattern>
-    <clipPath id="disc"><circle r="104"/></clipPath>
+    <clipPath id="scanClip"><circle cx="316" cy="354" r="142"/></clipPath>
   </defs>
-  <rect width="1600" height="440" rx="28" fill="url(#bg)"/>
-  <rect width="1600" height="440" rx="28" fill="url(#grid)"/>
-  <circle cx="1280" cy="218" r="270" fill="url(#aura)"/>
-  <path d="M0 397H1600" stroke="#58d8cc" stroke-opacity=".38" stroke-width="1"/>
-  <path d="M0 397H360" stroke="url(#mint)" stroke-width="4"/>
+  <rect width="2048" height="680" rx="16" fill="url(#bg)"/>
+  <rect width="2048" height="680" rx="16" fill="url(#dots)"/>
+  <circle cx="320" cy="350" r="310" fill="url(#halo)"/>
+  <circle cx="1660" cy="140" r="520" fill="url(#halo)" opacity=".38"/>
+  <rect x="1" y="1" width="2046" height="678" rx="15" fill="none" stroke="#29353b" stroke-width="2"/>
+  <g fill="none" stroke="#00bfc9" stroke-opacity=".52">
+    <rect x="82" y="146" width="338" height="376" rx="28" stroke-width="2"/>
+    <rect x="112" y="176" width="338" height="376" rx="28" stroke-width="2"/>
+    <rect x="142" y="206" width="338" height="376" rx="28" stroke-width="2.4"/>
+    <circle cx="316" cy="354" r="151" stroke-width="1.4" stroke-dasharray="5 10"/>
+    <circle cx="316" cy="354" r="112" stroke-opacity=".22" stroke-width="1"/>
+    <path d="M316 188V520M150 354H482" stroke-opacity=".16" stroke-dasharray="4 10"/>
+    <path d="M184 236h22M184 236v22M448 236h-22M448 236v22M184 472h22M184 472v-22M448 472h-22M448 472v-22" stroke-width="3"/>
+  </g>
+  <circle cx="316" cy="354" r="142" fill="url(#scan)" stroke="#05c8cf" stroke-opacity=".72" stroke-width="2"/>
+  <g clip-path="url(#scanClip)" fill="none" stroke-linecap="round">
+    <path d="M305 365C276 340 255 311 224 288M285 346C266 316 263 284 248 258M281 344C250 344 223 333 196 318M276 353C248 364 222 377 194 399M296 373C274 400 260 427 246 460M308 380C299 411 300 444 291 477M318 382C321 414 336 439 341 467M322 369C353 349 381 342 418 337M319 356C349 324 370 296 383 265" stroke="#16d3dc" stroke-width="3.4" stroke-opacity=".88"/>
+    <path d="M305 365C283 359 270 356 249 359M285 346C273 328 259 321 243 314M248 288L235 274M248 258L240 243M196 318L181 311M194 399L180 405M246 460L237 474M291 477L291 492M341 467L348 481M418 337L434 333M383 265L391 248M325 369C350 381 371 398 395 423M332 374C350 406 368 425 389 441" stroke="#0eaab4" stroke-width="2.2" stroke-opacity=".7"/>
+    <circle cx="305" cy="365" r="7" fill="#9afcff" stroke="none"/>
+  </g>
+  <g fill="none" stroke="#03bbc5" stroke-opacity=".7" stroke-width="2">
+    <path d="M470 256L535 214L601 177L620 275L558 317L470 256ZM535 214L558 317L602 386L621 478L489 430L470 256M558 317L602 386M489 430L558 317"/>
+  </g>
+  <g fill="#22d5dc">
+    <circle cx="470" cy="256" r="6"/><circle cx="535" cy="214" r="7"/><circle cx="601" cy="177" r="6"/>
+    <circle cx="620" cy="275" r="7"/><circle cx="558" cy="317" r="10"/><circle cx="602" cy="386" r="7"/>
+    <circle cx="621" cy="478" r="5"/><circle cx="489" cy="430" r="6"/>
+  </g>
+  <circle cx="558" cy="317" r="20" fill="none" stroke="#20d5dc" stroke-opacity=".24" stroke-width="2"/>
+  <path d="M680 126h34" stroke="#23d3d3" stroke-width="4" stroke-linecap="round"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="92" y="104" fill="#8ce8d8" font-size="17" font-weight="700" letter-spacing="4.5">MEDICAL IMAGING  /  TRUSTWORTHY AI</text>
-    <text x="88" y="197" fill="#f3f7fb" font-size="64" font-weight="700" letter-spacing="-1.6">Blessing Asare</text>
-    <text x="92" y="250" fill="#68dfd1" font-size="29" font-weight="600">PhD Researcher · TU Dublin</text>
-    <text x="92" y="296" fill="#bfd0dd" font-size="21">Useful medical AI for settings with limited specialist infrastructure.</text>
-    <rect x="92" y="326" width="252" height="34" rx="17" fill="#123744" stroke="#40cbbd" stroke-opacity=".55"/>
-    <circle cx="111" cy="343" r="4" fill="#7ce7c4"/>
-    <text x="226" y="348" text-anchor="middle" fill="#d6fff5" font-size="13" font-weight="700" letter-spacing="1.1">RESEARCH IRELAND SCHOLAR</text>
-  </g>
-  <g transform="translate(1280 218)">
-    <circle r="153" fill="none" stroke="#6fe0d1" stroke-opacity=".18" stroke-width="1"/>
-    <circle r="137" fill="none" stroke="#6fe0d1" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="2 8"/>
-    <circle r="117" fill="#0b2031" stroke="#72e0d4" stroke-opacity=".45" stroke-width="1.5"/>
-    <circle r="104" fill="url(#retina)"/>
-    <g clip-path="url(#disc)" fill="none" stroke-linecap="round">
-      <path d="M-20 4C-45-6-62-28-103-53M-39-12C-57-44-61-68-79-92M-49-18C-81-14-98-19-121-34M-63-5C-82 10-102 13-125 11M-45 11C-72 35-77 56-93 80M-30 19C-49 48-46 72-58 102M-21 23C-36 48-28 72-31 101M-54 2C-80 0-95 3-110 5M-35-27C-49-52-51-73-54-99" stroke="#ffd0bd" stroke-opacity=".82" stroke-width="2.1"/>
-      <path d="M-20 4C2-10 20-28 51-43M-27-5C1-31 13-56 24-82M-25 13C8 18 34 32 73 54M-38 10C-7 39 0 64 7 93M-19-20C1-27 14-39 35-57M-31 24C-8 53 20 67 45 83M-47-27C-55-53-69-65-88-76M-50 24C-67 46-82 54-103 63" stroke="#8fe9d8" stroke-opacity=".76" stroke-width="1.5"/>
-      <path d="M-80-92L-91-99M-121-34L-131-39M-125 11L-137 10M-93 80L-99 91M-58 102L-61 113M-31 101L-31 114M51-43L62-48M24-82L28-94M73 54L86 60M7 93L9 106M45 83L54 92" stroke="#e5b9c0" stroke-opacity=".7" stroke-width="1.2"/>
-    </g>
-    <ellipse cx="-19" cy="4" rx="17" ry="23" fill="#f3c2a4" fill-opacity=".72"/>
-    <circle cx="-19" cy="4" r="5" fill="#ffe3c8"/>
-    <circle r="123" fill="none" stroke="#4bd6ca" stroke-opacity=".13" stroke-width="1"/>
-    <path d="M-153 0H-137M137 0H153M0-153V-137M0 137V153" stroke="#8ce8d8" stroke-opacity=".75" stroke-width="2"/>
-    <circle cx="-153" r="3" fill="#79e1d3"/><circle cx="153" r="3" fill="#79e1d3"/>
-  </g>
-  <g font-family="Segoe UI, Arial, sans-serif" fill="#a8c0cf" font-size="12" letter-spacing="1.5">
-    <text x="1097" y="418">OCULAR IMAGING  ·  BIOMARKERS  ·  AI</text>
+    <text x="740" y="140" fill="#d9e4e7" font-size="26" font-weight="700" letter-spacing="7">BLESSING ASARE</text>
+    <text x="680" y="260" fill="#f4f7f8" font-size="88" font-weight="750" letter-spacing="1.5">MEDICAL IMAGING</text>
+    <text x="680" y="360" fill="#1ed0d4" font-size="96" font-weight="750" letter-spacing="1">AI ENGINEER</text>
+    <text x="682" y="426" fill="#e7eff0" font-size="34" font-weight="700">PhD Researcher</text>
+    <circle cx="980" cy="414" r="5" fill="#19cbd0"/>
+    <text x="1006" y="426" fill="#e7eff0" font-size="34" font-weight="700">TU Dublin</text>
+    <text x="682" y="468" fill="#91aeb4" font-size="28" font-weight="600">Research Ireland Scholar</text>
+    <path d="M682 511h54" stroke="#e9b86f" stroke-width="3"/>
+    <text x="682" y="565" fill="#d7e2e4" font-size="34" font-weight="650">From medical images to meaningful insights.</text>
+    <text x="682" y="627" fill="#a9c1c5" font-size="24" font-weight="600" letter-spacing=".4">
+      <tspan fill="#1ed0d4">Explainable AI</tspan><tspan>  ·  </tspan>
+      <tspan fill="#1ed0d4">Causal Inference</tspan><tspan>  ·  </tspan>
+      <tspan fill="#1ed0d4">Uncertainty Quantification</tspan><tspan>  ·  </tspan>
+      <tspan fill="#1ed0d4">MLOps</tspan>
+    </text>
   </g>
 </svg>
