@@ -1,3 +1,5 @@
+<a id="profile-overview"></a>
+
 <p align="center">
   <img src="./assets/profile-header-static.svg" alt="Blessing Asare, PhD Researcher at TU Dublin and Research Ireland Scholar, working on medical imaging and trustworthy AI." width="100%" />
 </p>
@@ -14,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> ·
+  <a href="#profile-overview">Overview</a> ·
   <a href="#technical-stack">Stack</a> ·
   <a href="#publications-and-research-output">Publications</a> ·
   <a href="#featured-projects">Projects</a> ·
@@ -34,19 +36,6 @@ My research interests include explainable AI, medical image analysis, ocular ima
 
 
 ---
-
-<a id="about-me"></a>
-
-## About me
-
-| Profile | Details |
-| :--- | :--- |
-| **Education** | MSc Digital Health, completed in 2026. Thesis: Hierarchical Deep Learning for Diabetic Retinopathy Detection. |
-| **Doctoral status** | Fully funded PhD researcher at TU Dublin and Research Ireland Scholar. |
-| **Doctoral project** | Doctoral project: *Multimodal Ocular Imaging for Neurodegenerative Disease Biomarkers*. |
-| **Opportunities** | Open to machine learning and data engineering roles in healthtech, AI startups, and research-focused teams. |
-| **Location & availability** | Based in Germany. Available for remote, hybrid, and on-site opportunities. |
-| **Languages** | Fluent in English and improving my German. |
 
 <a id="technical-stack"></a>
 
@@ -241,4 +230,4 @@ For research collaboration, machine learning, or data engineering opportunities,
 
 ---
 
-<p align="center"><sub>Medical imaging · ML systems · Data engineering · Analytics</sub><br /><a href="#about-me">Back to overview ↑</a></p>
+<p align="center"><sub>Medical imaging · ML systems · Data engineering · Analytics</sub><br /><a href="#profile-overview">Back to overview ↑</a></p>
