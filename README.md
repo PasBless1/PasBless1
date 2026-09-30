@@ -31,7 +31,7 @@ I am a data and machine learning engineer working on trustworthy AI for healthca
 
 My research interests include explainable AI, medical image analysis, ocular imaging, neurodegenerative disease biomarkers, class imbalance, domain shift, and clinical evaluation. I care about models that are useful beyond the benchmark and clear enough for clinicians and researchers to interrogate.
 
-I have completed an MSc in Digital Health, co-authored a peer-reviewed publication on drug discovery for Buruli ulcer, and have a first-author paper accepted at IEEE iAims 2026. I am a fully funded PhD researcher at Technological University Dublin (TU Dublin) and a Research Ireland Scholar. This GitHub contains work in medical imaging, ML systems, data engineering, and analytics.
+
 
 ---
 
