@@ -1,7 +1,7 @@
 <a id="profile-overview"></a>
 
 <p align="center">
-  <img src="./assets/profile-header-static.svg" alt="Blessing Asare, Medical Imaging AI Engineer. From medical images to meaningful insights. Abstract fundus and OCT imaging artwork." width="100%" />
+  <img src="./assets/profile-header-static.svg" alt="Blessing Asare, Medical Imaging AI Engineer. PhD Researcher at TU Dublin and Research Ireland Scholar. From medical images to meaningful insights." width="100%" />
 </p>
 
 <p align="center">
@@ -9,19 +9,21 @@
   <em>Research Ireland Scholar · MSc Digital Health</em>
 </p>
 
+<p align="center"><sub>Ocular imaging &nbsp;·&nbsp; Neurodegenerative biomarkers</sub></p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/blessing-asare"><img src="https://img.shields.io/badge/LinkedIn-102832?style=for-the-badge&amp;logo=linkedin&amp;logoColor=79E0CC" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/blessing-asare"><img src="https://img.shields.io/badge/LinkedIn-14263E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=79DCD6" alt="LinkedIn" /></a>
   <a href="https://blessingasare.netlify.app/"><img src="./assets/portfolio-link.svg" alt="Portfolio website" height="28" /></a>
-  <a href="mailto:blessingasare29@gmail.com"><img src="https://img.shields.io/badge/Email-102832?style=for-the-badge&amp;logo=gmail&amp;logoColor=79E0CC" alt="Email" /></a>
+  <a href="mailto:blessingasare29@gmail.com"><img src="https://img.shields.io/badge/Email-14263E?style=for-the-badge&amp;logo=gmail&amp;logoColor=79DCD6" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="#profile-overview">Overview</a> &nbsp;·&nbsp;
-  <a href="#doctoral-research">PhD Research</a> &nbsp;·&nbsp;
-  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#publications-and-research-output">Publications</a> &nbsp;·&nbsp;
-  <a href="#technical-stack">Stack</a> &nbsp;·&nbsp;
-  <a href="#notable-repositories">Repositories</a> &nbsp;·&nbsp;
+  <a href="#profile-overview">Overview</a> ·
+  <a href="#technical-stack">Stack</a> ·
+  <a href="#publications-and-research-output">Publications</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#doctoral-research">PhD Research</a> ·
+  <a href="#notable-repositories">Repositories</a> ·
   <a href="#collaboration-and-professional-opportunities">Connect</a>
 </p>
 
@@ -35,99 +37,11 @@ My research interests include explainable AI, medical image analysis, ocular ima
 
 ---
 
-<a id="doctoral-research"></a>
-
-## Doctoral research
-
-My PhD project, *Multimodal Ocular Imaging for Neurodegenerative Disease Biomarkers*, investigates how ocular imaging and AI can support the study of biomarkers for neurodegenerative disease. The work brings together ocular imaging, medical AI, and neuroscience, and is supported by Research Ireland at Technological University Dublin.
-
----
-
-<a id="featured-projects"></a>
-
-## Featured projects
-
-### [Hierarchical deep learning for diabetic retinopathy detection](https://github.com/PasBless1/Full-MLOps-pipeline-for-DR-for-production)
-
-My MSc thesis work develops a hierarchical deep learning pipeline for automated diabetic retinopathy grading from fundus images. The research focuses on clinically interpretable outputs, class imbalance, and reproducible evaluation.
-
-**Key work:**
-
-- Built a multi-stage architecture for diabetic retinopathy detection and severity grading.
-- Used Grad-CAM and saliency maps to inspect model predictions.
-- Packaged the work as a production-oriented MLOps pipeline.
-
-Related release: [trained models and inference code](https://github.com/PasBless1/Trained-Models-for-2-stage-DR-Detection-with-DL).
-
-`PyTorch` `Medical Imaging` `Explainable AI` `Deep Learning` `Class Imbalance`
-
-### [Brain MRI tumour segmentation](https://github.com/PasBless1/Brain-MRI-Tumor-Segmentation-Full-MLOps-pipeline)
-
-A full ML pipeline for automated brain tumour detection and segmentation from FLAIR MRI scans. The repository brings together model development, reproducible training, and deployment-oriented engineering.
-
-`Python` `MRI` `Segmentation` `MLOps` `Medical AI`
-
-### [Wearable joint-angle estimation](https://github.com/PasBless1/wearable-joint-angle-estimation)
-
-An end-to-end machine learning pipeline for elbow flexion angle estimation from wearable IMU and EMG signals. The project evaluates generalisation with leave-one-subject-out cross-validation across 13 participants, uses bootstrap uncertainty quantification, and includes a FastAPI inference service.
-
-**Key work:**
-
-- Developed orientation-invariant features for sensor placement variation.
-- Compared Random Forest and Ridge models across slow, normal, and fast movement conditions.
-- Added reliability flags from prediction uncertainty and a Dockerised API workflow.
-
-`Python` `Wearable Sensing` `IMU` `EMG` `Uncertainty Quantification` `FastAPI` `Docker`
-
-### BuDb: A curated drug discovery database for Buruli ulcer
-
-I co-authored BuDb, a curated bioinformatics database for Buruli ulcer drug discovery. It brings together literature-verified and database-curated information on drug targets, compounds, existing drugs, ethnopharmacological plants, and the *Mycobacterium ulcerans* genome.
-
-Published in: *Journal of Computational Biophysics and Chemistry*, 2023.
-
-[Read the paper](https://doi.org/10.1142/S2737416523500011)
-
-`Bioinformatics` `Drug Discovery` `Database Design` `Neglected Tropical Diseases` `Open Science`
-
-### IEEE iAims 2026 conference paper
-
-My first-author paper, *Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection*, has been accepted for IEEE iAims 2026. It extends my thesis research on explainable medical imaging and diabetic retinopathy grading.
-
-`IEEE` `Medical AI` `Conference Paper` `Explainable AI`
-
----
-
-<a id="publications-and-research-output"></a>
-
-## Publications and research output
-
-### [BuDb: A Curated Drug Discovery Database for Buruli Ulcer](https://doi.org/10.1142/S2737416523500011)
-
-*Peer-reviewed journal article · Published*
-
-*Journal of Computational Biophysics and Chemistry*, 22(1), 31-41, 2023.
-
-### Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection
-
-*Conference paper · Accepted for publication*
-
-IEEE iAims 2026.
-
-**Research contributions include:**
-
-- Hierarchical and multi-scale approaches for medical image analysis.
-- Grad-CAM and saliency-map workflows for clinical interpretability.
-- Class imbalance strategies for medical imaging datasets.
-- Database design for neglected tropical disease research.
-- Uncertainty-aware evaluation for wearable-sensing ML.
-
----
-
 <a id="technical-stack"></a>
 
 ## Technical stack
 
-### Core ML and engineering stack
+#### Core ML and engineering stack
 
 <p>
   <img src="./assets/stack/python.svg" alt="Python" width="96" height="26" />
@@ -139,7 +53,7 @@ IEEE iAims 2026.
   <img src="./assets/stack/jupyter.svg" alt="Jupyter Notebook" width="170" height="26" />
 </p>
 
-### Medical imaging stack
+#### Medical imaging stack
 
 <p>
   <img src="./assets/stack/tensorflow.svg" alt="TensorFlow" width="130" height="26" />
@@ -150,7 +64,7 @@ IEEE iAims 2026.
   <img src="./assets/stack/dvc.svg" alt="DVC" width="70" height="26" />
 </p>
 
-### Data engineering and databases
+#### Data engineering and databases
 
 <p>
   <img src="./assets/stack/mysql.svg" alt="MySQL" width="88" height="26" />
@@ -166,7 +80,7 @@ IEEE iAims 2026.
   <img src="./assets/stack/etl.svg" alt="ETL" width="67" height="26" />
 </p>
 
-### Analytics and visualisation
+#### Analytics and visualisation
 
 <p>
   <img src="./assets/stack/matplotlib.svg" alt="Matplotlib" width="123" height="26" />
@@ -174,7 +88,86 @@ IEEE iAims 2026.
   <img src="./assets/stack/tableau.svg" alt="Tableau" width="101" height="26" />
 </p>
 
+<a id="publications-and-research-output"></a>
+
+## Publications and research output
+
+| Type | Title | Venue | Status |
+| --- | --- | --- | --- |
+| Peer-reviewed journal article | [BuDb: A Curated Drug Discovery Database for Buruli Ulcer](https://doi.org/10.1142/S2737416523500011) | *Journal of Computational Biophysics and Chemistry*, 22(1), 31-41, 2023 | Published |
+| Conference paper | Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection | IEEE iAims 2026 | Accepted for publication |
+
+**Research contributions include:**
+
+- Hierarchical and multi-scale approaches for medical image analysis.
+- Grad-CAM and saliency-map workflows for clinical interpretability.
+- Class imbalance strategies for medical imaging datasets.
+- Database design for neglected tropical disease research.
+- Uncertainty-aware evaluation for wearable-sensing ML.
+
 ---
+
+<a id="featured-projects"></a>
+
+## Featured projects
+
+### [Wearable joint-angle estimation](https://github.com/PasBless1/wearable-joint-angle-estimation)
+
+An end-to-end machine learning pipeline for elbow flexion angle estimation from wearable IMU and EMG signals. The project evaluates generalisation with leave-one-subject-out cross-validation across 13 participants, uses bootstrap uncertainty quantification, and includes a FastAPI inference service.
+
+**Key work:**
+
+- Developed orientation-invariant features for sensor placement variation.
+- Compared Random Forest and Ridge models across slow, normal, and fast movement conditions.
+- Added reliability flags from prediction uncertainty and a Dockerised API workflow.
+
+`Python` `Wearable Sensing` `IMU` `EMG` `Uncertainty Quantification` `FastAPI` `Docker`
+
+
+
+### [Hierarchical deep learning for diabetic retinopathy detection](https://github.com/PasBless1/Full-MLOps-pipeline-for-DR-for-production)
+
+My MSc thesis work develops a hierarchical deep learning pipeline for automated diabetic retinopathy grading from fundus images. The research focuses on clinically interpretable outputs, class imbalance, and reproducible evaluation.
+
+**Key work:**
+
+- Built a multi-stage architecture for diabetic retinopathy detection and severity grading.
+- Used Grad-CAM and saliency maps to inspect model predictions.
+- Packaged the work as a production-oriented MLOps pipeline.
+
+Related release: [trained models and inference code](https://github.com/PasBless1/Trained-Models-for-2-stage-DR-Detection-with-DL).
+
+`PyTorch` `Medical Imaging` `Explainable AI` `Deep Learning` `Class Imbalance`
+
+
+
+### [Brain MRI tumour segmentation](https://github.com/PasBless1/Brain-MRI-Tumor-Segmentation-Full-MLOps-pipeline)
+
+A full ML pipeline for automated brain tumour detection and segmentation from FLAIR MRI scans. The repository brings together model development, reproducible training, and deployment-oriented engineering.
+
+`Python` `MRI` `Segmentation` `MLOps` `Medical AI`
+
+
+
+### BuDb: A curated drug discovery database for Buruli ulcer
+
+I co-authored BuDb, a curated bioinformatics database for Buruli ulcer drug discovery. It brings together literature-verified and database-curated information on drug targets, compounds, existing drugs, ethnopharmacological plants, and the *Mycobacterium ulcerans* genome.
+
+Published in: *Journal of Computational Biophysics and Chemistry*, 2023.
+
+[Read the paper](https://doi.org/10.1142/S2737416523500011)
+
+`Bioinformatics` `Drug Discovery` `Database Design` `Neglected Tropical Diseases` `Open Science`
+
+
+
+### IEEE iAims 2026 conference paper
+
+My first-author paper, *Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection*, has been accepted for IEEE iAims 2026. It extends my thesis research on explainable medical imaging and diabetic retinopathy grading.
+
+`IEEE` `Medical AI` `Conference Paper` `Explainable AI`
+
+
 
 <a id="research-impact-and-technical-work"></a>
 
@@ -193,7 +186,11 @@ IEEE iAims 2026.
 - Data engineering with ETL, Spark, Airflow, SQL, and NoSQL databases.
 - Evaluation approaches for class imbalance, cross-subject generalisation, explainability, and uncertainty.
 
----
+<a id="doctoral-research"></a>
+
+## Doctoral research
+
+My PhD project, *Multimodal Ocular Imaging for Neurodegenerative Disease Biomarkers*, investigates how ocular imaging and AI can support the study of biomarkers for neurodegenerative disease. The work brings together ocular imaging, medical AI, and neuroscience, and is supported by Research Ireland at Technological University Dublin.
 
 <a id="notable-repositories"></a>
 
