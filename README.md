@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  <em>MSc Digital Health</em> &nbsp;·&nbsp; Ocular imaging &nbsp;·&nbsp; Neurodegenerative biomarkers
+  <strong>PhD Research · TU Dublin</strong><br />
+  <em>Research Ireland Scholar · MSc Digital Health</em>
 </p>
+
+<p align="center"><sub>Ocular imaging &nbsp;·&nbsp; Neurodegenerative biomarkers</sub></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/blessing-asare"><img src="https://img.shields.io/badge/LinkedIn-14263E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=79DCD6" alt="LinkedIn" /></a>
