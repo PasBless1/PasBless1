@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="title desc">
+  <title id="title">Blessing Asare | Medical Imaging AI Engineer</title>
+  <desc id="desc">PhD Researcher at TU Dublin and Research Ireland Scholar. From medical images to meaningful insights. Explainable AI, causal inference, uncertainty quantification and MLOps. A stylised retinal image and layered ocular scan accompany the profile.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0B1720"/><stop offset="1" stop-color="#10252D"/>
+    </linearGradient>
+    <radialGradient id="retina">
+      <stop stop-color="#174C50"/><stop offset="1" stop-color="#0C282E"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#73DCC6" stop-opacity=".20"/><stop offset="1" stop-color="#73DCC6" stop-opacity=".02"/>
+    </linearGradient>
+    <clipPath id="retinal-disc"><circle cx="1234" cy="173" r="82"/></clipPath>
+    <clipPath id="scan-window"><rect x="1059" y="313" width="438" height="78" rx="10"/></clipPath>
+  </defs>
+  <rect width="1600" height="540" rx="24" fill="url(#background)"/>
+  <rect x=".75" y=".75" width="1598.5" height="538.5" rx="23.25" fill="none" stroke="#29434B" stroke-width="1.5"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <path d="M78 64h38" stroke="#79E0CC" stroke-width="3" stroke-linecap="round"/>
+    <text x="74" y="137" fill="#F3F7F5" font-size="64" font-weight="700" letter-spacing="1">BLESSING ASARE</text>
+    <text x="78" y="191" fill="#C6D7D9" font-size="32" font-weight="600" letter-spacing=".5">MEDICAL IMAGING</text>
+    <text x="405" y="191" fill="#79E0CC" font-size="32" font-weight="700" letter-spacing=".5">AI ENGINEER</text>
+    <text x="78" y="253" fill="#F3F7F5" font-size="26" font-weight="600">PhD Researcher</text>
+    <circle cx="298" cy="244" r="3.5" fill="#79E0CC"/>
+    <text x="320" y="253" fill="#F3F7F5" font-size="26" font-weight="600">TU Dublin</text>
+    <text x="78" y="292" fill="#A9C6CB" font-size="22">Research Ireland Scholar</text>
+    <path d="M78 333h46" stroke="#D9BF84" stroke-width="3" stroke-linecap="round"/>
+    <text x="78" y="377" fill="#D1DFE0" font-size="27">From medical images to meaningful insights.</text>
+  </g>
+
+  <rect x="1028" y="44" width="500" height="376" rx="22" fill="#091C24" stroke="#36565D" stroke-width="1.4"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <text x="1059" y="80" fill="#AAC8CD" font-size="15" letter-spacing="1.8">OCULAR IMAGING  /  AI</text>
+  </g>
+  <circle cx="1496" cy="74" r="4" fill="#79E0CC"/>
+  <path d="M1059 98h438" stroke="#29444B"/>
+  <g transform="translate(44 24)">
+    <circle cx="1234" cy="173" r="90" fill="none" stroke="#577D81" stroke-opacity=".5" stroke-dasharray="2 7"/>
+    <circle cx="1234" cy="173" r="82" fill="url(#retina)" stroke="#78C6BA" stroke-opacity=".65" stroke-width="1.5"/>
+    <g clip-path="url(#retinal-disc)" fill="none" stroke-linecap="round">
+      <path d="M1214 182C1197 168 1181 144 1157 130M1202 172C1191 153 1188 131 1179 110M1200 176C1179 180 1161 173 1140 163M1205 187C1186 205 1177 225 1167 247M1216 191C1210 213 1213 235 1206 260M1221 184C1242 166 1264 157 1295 153M1220 175C1238 156 1252 134 1261 111M1223 191C1247 197 1269 213 1291 232" stroke="#63DAC5" stroke-width="2.4"/>
+      <path d="M1196 165C1184 156 1173 151 1160 148M1182 199L1160 207M1249 162L1268 135M1247 199L1256 226M1211 222L1199 242M1280 159L1298 166" stroke="#91BFAA" stroke-width="1.3" opacity=".7"/>
+      <ellipse cx="1215" cy="184" rx="7" ry="10" fill="#DFCE9C" fill-opacity=".9" stroke="none"/>
+    </g>
+  </g>
+  <path d="M1168 129v-16h16M1372 113h16v16M1168 265v16h16M1372 281h16v-16" fill="none" stroke="#568B8D" stroke-width="1.6"/>
+  <path d="M1089 197h31M1436 197h31" stroke="#568B8D" stroke-width="1.3"/>
+  <circle cx="1126" cy="197" r="2.5" fill="#79E0CC"/>
+  <circle cx="1430" cy="197" r="2.5" fill="#79E0CC"/>
+  <path d="M1059 297h438" stroke="#29444B"/>
+  <rect x="1059" y="313" width="438" height="78" rx="10" fill="#071820" stroke="#29474C"/>
+  <g clip-path="url(#scan-window)">
+    <path d="M1067 341C1117 328 1163 334 1206 346S1280 370 1328 348S1418 333 1490 345V390H1067Z" fill="url(#scan)"/>
+    <path d="M1067 341C1117 328 1163 334 1206 346S1280 370 1328 348S1418 333 1490 345" fill="none" stroke="#80DFC5" stroke-width="2"/>
+    <path d="M1067 349C1117 336 1163 342 1206 354S1280 378 1328 356S1418 341 1490 353" fill="none" stroke="#4C9E91" stroke-width="1.5"/>
+    <path d="M1067 357C1117 344 1163 350 1206 362S1280 386 1328 364S1418 349 1490 361" fill="none" stroke="#487975" stroke-width="1.3"/>
+  </g>
+
+  <path d="M78 446h1450" stroke="#29444B"/>
+  <g fill="#122D35" stroke="#31565D">
+    <rect x="243" y="465" width="232" height="44" rx="22"/>
+    <rect x="495" y="465" width="275" height="44" rx="22"/>
+    <rect x="790" y="465" width="402" height="44" rx="22"/>
+    <rect x="1212" y="465" width="145" height="44" rx="22"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#AEE8DC" text-anchor="middle">
+    <text x="359" y="494">EXPLAINABLE AI</text>
+    <text x="632.5" y="494">CAUSAL INFERENCE</text>
+    <text x="991" y="494">UNCERTAINTY QUANTIFICATION</text>
+    <text x="1284.5" y="494">MLOps</text>
+  </g>
+</svg>
