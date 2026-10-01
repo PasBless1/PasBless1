@@ -1,11 +1,15 @@
+<a id="profile-overview"></a>
+
 <p align="center">
-  <img src="./assets/profile-header-static.svg" alt="Blessing Asare — Medical Imaging AI Engineer. PhD Researcher at TU Dublin. From medical images to meaningful insights." width="100%" />
+  <img src="./assets/profile-header-static.svg" alt="Blessing Asare, Medical Imaging AI Engineer. PhD Researcher at TU Dublin and Research Ireland Scholar. From medical images to meaningful insights." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Incoming PhD Researcher · TU Dublin</strong><br />
+  <strong>PhD Research · TU Dublin</strong><br />
   <em>Research Ireland Scholar · MSc Digital Health</em>
 </p>
+
+<p align="center"><sub>Ocular imaging &nbsp;·&nbsp; Neurodegenerative biomarkers</sub></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/blessing-asare"><img src="https://img.shields.io/badge/LinkedIn-14263E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=79DCD6" alt="LinkedIn" /></a>
@@ -14,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> ·
+  <a href="#profile-overview">Overview</a> ·
   <a href="#technical-stack">Stack</a> ·
   <a href="#publications-and-research-output">Publications</a> ·
   <a href="#featured-projects">Projects</a> ·
@@ -25,28 +29,13 @@
 
 ---
 
-### Hello, I am Blessing Asare 👋
+## Hello, I am Blessing Asare 👋
 
 I am a data and machine learning engineer working on trustworthy AI for healthcare. My projects combine medical imaging, wearable sensing, explainability, uncertainty estimation, and reproducible ML systems.
 
 My research interests include explainable AI, medical image analysis, ocular imaging, neurodegenerative disease biomarkers, class imbalance, domain shift, and clinical evaluation. I care about models that are useful beyond the benchmark and clear enough for clinicians and researchers to interrogate.
 
-I have completed an MSc in Digital Health, co-authored a peer-reviewed publication on drug discovery for Buruli ulcer, and have a first-author paper accepted at IEEE iAims 2026. I am also an incoming PhD researcher at Technological University Dublin (TU Dublin) and a Research Ireland Scholar. This GitHub contains work in medical imaging, ML systems, data engineering, and analytics.
-
 ---
-
-<a id="about-me"></a>
-
-## About me
-
-| Profile | Details |
-| :--- | :--- |
-| **Education** | MSc Digital Health, completed in 2026. Thesis: Hierarchical Deep Learning for Diabetic Retinopathy Detection. |
-| **Scholarship** | Incoming fully funded PhD researcher at Technological University Dublin (TU Dublin) and Research Ireland Scholar. |
-| **Doctoral project** | Doctoral project: *Multimodal Ocular Imaging for Neurodegenerative Disease Biomarkers*. |
-| **Opportunities** | Open to machine learning and data engineering roles in healthtech, AI startups, and research-focused teams. |
-| **Location & availability** | Based in Germany. Available for remote, hybrid, and on-site opportunities. |
-| **Languages** | Fluent in English and improving my German. |
 
 <a id="technical-stack"></a>
 
@@ -134,7 +123,7 @@ An end-to-end machine learning pipeline for elbow flexion angle estimation from 
 
 `Python` `Wearable Sensing` `IMU` `EMG` `Uncertainty Quantification` `FastAPI` `Docker`
 
----
+
 
 ### [Hierarchical deep learning for diabetic retinopathy detection](https://github.com/PasBless1/Full-MLOps-pipeline-for-DR-for-production)
 
@@ -150,7 +139,7 @@ Related release: [trained models and inference code](https://github.com/PasBless
 
 `PyTorch` `Medical Imaging` `Explainable AI` `Deep Learning` `Class Imbalance`
 
----
+
 
 ### [Brain MRI tumour segmentation](https://github.com/PasBless1/Brain-MRI-Tumor-Segmentation-Full-MLOps-pipeline)
 
@@ -158,7 +147,7 @@ A full ML pipeline for automated brain tumour detection and segmentation from FL
 
 `Python` `MRI` `Segmentation` `MLOps` `Medical AI`
 
----
+
 
 ### BuDb: A curated drug discovery database for Buruli ulcer
 
@@ -170,7 +159,7 @@ Published in: *Journal of Computational Biophysics and Chemistry*, 2023.
 
 `Bioinformatics` `Drug Discovery` `Database Design` `Neglected Tropical Diseases` `Open Science`
 
----
+
 
 ### IEEE iAims 2026 conference paper
 
@@ -178,7 +167,7 @@ My first-author paper, *Hierarchical Deep Learning Framework for Diabetic Retino
 
 `IEEE` `Medical AI` `Conference Paper` `Explainable AI`
 
----
+
 
 <a id="research-impact-and-technical-work"></a>
 
@@ -241,4 +230,4 @@ For research collaboration, machine learning, or data engineering opportunities,
 
 ---
 
-<p align="center"><sub>Medical imaging · ML systems · Data engineering · Analytics</sub><br /><a href="#about-me">Back to overview ↑</a></p>
+<p align="center"><sub>Medical imaging · ML systems · Data engineering · Analytics</sub><br /><a href="#profile-overview">Back to overview ↑</a></p>
