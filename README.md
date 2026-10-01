@@ -1,7 +1,7 @@
 <a id="profile-overview"></a>
 
 <p align="center">
-  <img src="./assets/profile-header-static.svg" alt="Blessing Asare, Medical Imaging AI Engineer. PhD Researcher at TU Dublin and Research Ireland Scholar. From medical images to meaningful insights." width="100%" />
+  <img src="./assets/profile-header-static.svg" alt="Blessing Asare, Medical Imaging AI Engineer. From medical images to meaningful insights. Abstract fundus and OCT imaging artwork." width="100%" />
 </p>
 
 <p align="center">
@@ -9,21 +9,19 @@
   <em>Research Ireland Scholar · MSc Digital Health</em>
 </p>
 
-<p align="center"><sub>Ocular imaging &nbsp;·&nbsp; Neurodegenerative biomarkers</sub></p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/blessing-asare"><img src="https://img.shields.io/badge/LinkedIn-14263E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=79DCD6" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/blessing-asare"><img src="https://img.shields.io/badge/LinkedIn-102832?style=for-the-badge&amp;logo=linkedin&amp;logoColor=79E0CC" alt="LinkedIn" /></a>
   <a href="https://blessingasare.netlify.app/"><img src="./assets/portfolio-link.svg" alt="Portfolio website" height="28" /></a>
-  <a href="mailto:blessingasare29@gmail.com"><img src="https://img.shields.io/badge/Email-14263E?style=for-the-badge&amp;logo=gmail&amp;logoColor=79DCD6" alt="Email" /></a>
+  <a href="mailto:blessingasare29@gmail.com"><img src="https://img.shields.io/badge/Email-102832?style=for-the-badge&amp;logo=gmail&amp;logoColor=79E0CC" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="#profile-overview">Overview</a> ·
-  <a href="#technical-stack">Stack</a> ·
-  <a href="#publications-and-research-output">Publications</a> ·
-  <a href="#featured-projects">Projects</a> ·
-  <a href="#doctoral-research">PhD Research</a> ·
-  <a href="#notable-repositories">Repositories</a> ·
+  <a href="#profile-overview">Overview</a> &nbsp;·&nbsp;
+  <a href="#doctoral-research">PhD Research</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#publications-and-research-output">Publications</a> &nbsp;·&nbsp;
+  <a href="#technical-stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#notable-repositories">Repositories</a> &nbsp;·&nbsp;
   <a href="#collaboration-and-professional-opportunities">Connect</a>
 </p>
 
@@ -37,93 +35,17 @@ My research interests include explainable AI, medical image analysis, ocular ima
 
 ---
 
-<a id="technical-stack"></a>
+<a id="doctoral-research"></a>
 
-## Technical stack
+## Doctoral research
 
-#### Core ML and engineering stack
-
-<p>
-  <img src="./assets/stack/python.svg" alt="Python" width="96" height="26" />
-  <img src="./assets/stack/pytorch.svg" alt="PyTorch" width="103" height="26" />
-  <img src="./assets/stack/scikitlearn.svg" alt="scikit-learn" width="131" height="26" />
-  <img src="./assets/stack/fastapi.svg" alt="FastAPI" width="97" height="26" />
-  <img src="./assets/stack/numpy.svg" alt="NumPy" width="89" height="26" />
-  <img src="./assets/stack/pandas.svg" alt="Pandas" width="96" height="26" />
-  <img src="./assets/stack/jupyter.svg" alt="Jupyter Notebook" width="170" height="26" />
-</p>
-
-#### Medical imaging stack
-
-<p>
-  <img src="./assets/stack/tensorflow.svg" alt="TensorFlow" width="130" height="26" />
-  <img src="./assets/stack/keras.svg" alt="Keras" width="86" height="26" />
-  <img src="./assets/stack/opencv.svg" alt="OpenCV" width="95" height="26" />
-  <img src="./assets/stack/pillow.svg" alt="Pillow" width="92" height="26" />
-  <img src="./assets/stack/mlflow.svg" alt="MLflow" width="98" height="26" />
-  <img src="./assets/stack/dvc.svg" alt="DVC" width="70" height="26" />
-</p>
-
-#### Data engineering and databases
-
-<p>
-  <img src="./assets/stack/mysql.svg" alt="MySQL" width="88" height="26" />
-  <img src="./assets/stack/postgresql.svg" alt="PostgreSQL" width="126" height="26" />
-  <img src="./assets/stack/ibm.svg" alt="IBM Db2" width="97" height="26" />
-  <img src="./assets/stack/mongodb.svg" alt="MongoDB" width="109" height="26" />
-  <img src="./assets/stack/apachekafka.svg" alt="Apache Kafka" width="140" height="26" />
-  <img src="./assets/stack/apachespark.svg" alt="Apache Spark" width="140" height="26" />
-  <img src="./assets/stack/apachehadoop.svg" alt="Apache Hadoop" width="151" height="26" />
-  <img src="./assets/stack/apacheairflow.svg" alt="Apache Airflow" width="155" height="26" />
-  <img src="./assets/stack/docker.svg" alt="Docker" width="95" height="26" />
-  <img src="./assets/stack/gnubash.svg" alt="Shell Script" width="132" height="26" />
-  <img src="./assets/stack/etl.svg" alt="ETL" width="67" height="26" />
-</p>
-
-#### Analytics and visualisation
-
-<p>
-  <img src="./assets/stack/matplotlib.svg" alt="Matplotlib" width="123" height="26" />
-  <img src="./assets/stack/powerbi.svg" alt="Power BI" width="107" height="26" />
-  <img src="./assets/stack/tableau.svg" alt="Tableau" width="101" height="26" />
-</p>
-
-<a id="publications-and-research-output"></a>
-
-## Publications and research output
-
-| Type | Title | Venue | Status |
-| --- | --- | --- | --- |
-| Peer-reviewed journal article | [BuDb: A Curated Drug Discovery Database for Buruli Ulcer](https://doi.org/10.1142/S2737416523500011) | *Journal of Computational Biophysics and Chemistry*, 22(1), 31-41, 2023 | Published |
-| Conference paper | Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection | IEEE iAims 2026 | Accepted for publication |
-
-**Research contributions include:**
-
-- Hierarchical and multi-scale approaches for medical image analysis.
-- Grad-CAM and saliency-map workflows for clinical interpretability.
-- Class imbalance strategies for medical imaging datasets.
-- Database design for neglected tropical disease research.
-- Uncertainty-aware evaluation for wearable-sensing ML.
+My PhD project, *Multimodal Ocular Imaging for Neurodegenerative Disease Biomarkers*, investigates how ocular imaging and AI can support the study of biomarkers for neurodegenerative disease. The work brings together ocular imaging, medical AI, and neuroscience, and is supported by Research Ireland at Technological University Dublin.
 
 ---
 
 <a id="featured-projects"></a>
 
 ## Featured projects
-
-### [Wearable joint-angle estimation](https://github.com/PasBless1/wearable-joint-angle-estimation)
-
-An end-to-end machine learning pipeline for elbow flexion angle estimation from wearable IMU and EMG signals. The project evaluates generalisation with leave-one-subject-out cross-validation across 13 participants, uses bootstrap uncertainty quantification, and includes a FastAPI inference service.
-
-**Key work:**
-
-- Developed orientation-invariant features for sensor placement variation.
-- Compared Random Forest and Ridge models across slow, normal, and fast movement conditions.
-- Added reliability flags from prediction uncertainty and a Dockerised API workflow.
-
-`Python` `Wearable Sensing` `IMU` `EMG` `Uncertainty Quantification` `FastAPI` `Docker`
-
-
 
 ### [Hierarchical deep learning for diabetic retinopathy detection](https://github.com/PasBless1/Full-MLOps-pipeline-for-DR-for-production)
 
@@ -139,15 +61,23 @@ Related release: [trained models and inference code](https://github.com/PasBless
 
 `PyTorch` `Medical Imaging` `Explainable AI` `Deep Learning` `Class Imbalance`
 
-
-
 ### [Brain MRI tumour segmentation](https://github.com/PasBless1/Brain-MRI-Tumor-Segmentation-Full-MLOps-pipeline)
 
 A full ML pipeline for automated brain tumour detection and segmentation from FLAIR MRI scans. The repository brings together model development, reproducible training, and deployment-oriented engineering.
 
 `Python` `MRI` `Segmentation` `MLOps` `Medical AI`
 
+### [Wearable joint-angle estimation](https://github.com/PasBless1/wearable-joint-angle-estimation)
 
+An end-to-end machine learning pipeline for elbow flexion angle estimation from wearable IMU and EMG signals. The project evaluates generalisation with leave-one-subject-out cross-validation across 13 participants, uses bootstrap uncertainty quantification, and includes a FastAPI inference service.
+
+**Key work:**
+
+- Developed orientation-invariant features for sensor placement variation.
+- Compared Random Forest and Ridge models across slow, normal, and fast movement conditions.
+- Added reliability flags from prediction uncertainty and a Dockerised API workflow.
+
+`Python` `Wearable Sensing` `IMU` `EMG` `Uncertainty Quantification` `FastAPI` `Docker`
 
 ### BuDb: A curated drug discovery database for Buruli ulcer
 
@@ -159,15 +89,92 @@ Published in: *Journal of Computational Biophysics and Chemistry*, 2023.
 
 `Bioinformatics` `Drug Discovery` `Database Design` `Neglected Tropical Diseases` `Open Science`
 
-
-
 ### IEEE iAims 2026 conference paper
 
 My first-author paper, *Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection*, has been accepted for IEEE iAims 2026. It extends my thesis research on explainable medical imaging and diabetic retinopathy grading.
 
 `IEEE` `Medical AI` `Conference Paper` `Explainable AI`
 
+---
 
+<a id="publications-and-research-output"></a>
+
+## Publications and research output
+
+### [BuDb: A Curated Drug Discovery Database for Buruli Ulcer](https://doi.org/10.1142/S2737416523500011)
+
+*Peer-reviewed journal article · Published*
+
+*Journal of Computational Biophysics and Chemistry*, 22(1), 31-41, 2023.
+
+### Hierarchical Deep Learning Framework for Diabetic Retinopathy Detection
+
+*Conference paper · Accepted for publication*
+
+IEEE iAims 2026.
+
+**Research contributions include:**
+
+- Hierarchical and multi-scale approaches for medical image analysis.
+- Grad-CAM and saliency-map workflows for clinical interpretability.
+- Class imbalance strategies for medical imaging datasets.
+- Database design for neglected tropical disease research.
+- Uncertainty-aware evaluation for wearable-sensing ML.
+
+---
+
+<a id="technical-stack"></a>
+
+## Technical stack
+
+### Core ML and engineering stack
+
+<p>
+  <img src="./assets/stack/python.svg" alt="Python" width="96" height="26" />
+  <img src="./assets/stack/pytorch.svg" alt="PyTorch" width="103" height="26" />
+  <img src="./assets/stack/scikitlearn.svg" alt="scikit-learn" width="131" height="26" />
+  <img src="./assets/stack/fastapi.svg" alt="FastAPI" width="97" height="26" />
+  <img src="./assets/stack/numpy.svg" alt="NumPy" width="89" height="26" />
+  <img src="./assets/stack/pandas.svg" alt="Pandas" width="96" height="26" />
+  <img src="./assets/stack/jupyter.svg" alt="Jupyter Notebook" width="170" height="26" />
+</p>
+
+### Medical imaging stack
+
+<p>
+  <img src="./assets/stack/tensorflow.svg" alt="TensorFlow" width="130" height="26" />
+  <img src="./assets/stack/keras.svg" alt="Keras" width="86" height="26" />
+  <img src="./assets/stack/opencv.svg" alt="OpenCV" width="95" height="26" />
+  <img src="./assets/stack/pillow.svg" alt="Pillow" width="92" height="26" />
+  <img src="./assets/stack/mlflow.svg" alt="MLflow" width="98" height="26" />
+  <img src="./assets/stack/dvc.svg" alt="DVC" width="70" height="26" />
+</p>
+
+### Data engineering and databases
+
+<p>
+  <img src="./assets/stack/mysql.svg" alt="MySQL" width="88" height="26" />
+  <img src="./assets/stack/postgresql.svg" alt="PostgreSQL" width="126" height="26" />
+  <img src="./assets/stack/ibm.svg" alt="IBM Db2" width="97" height="26" />
+  <img src="./assets/stack/mongodb.svg" alt="MongoDB" width="109" height="26" />
+  <img src="./assets/stack/apachekafka.svg" alt="Apache Kafka" width="140" height="26" />
+  <img src="./assets/stack/apachespark.svg" alt="Apache Spark" width="140" height="26" />
+  <img src="./assets/stack/apachehadoop.svg" alt="Apache Hadoop" width="151" height="26" />
+  <img src="./assets/stack/apacheairflow.svg" alt="Apache Airflow" width="155" height="26" />
+  <img src="./assets/stack/docker.svg" alt="Docker" width="95" height="26" />
+  <img src="./assets/stack/gnubash.svg" alt="Shell Script" width="132" height="26" />
+  <img src="./assets/stack/etl.svg" alt="ETL" width="67" height="26" />
+</p>
+
+### Analytics and visualisation
+
+<p>
+  <img src="./assets/stack/matplotlib.svg" alt="Matplotlib" width="123" height="26" />
+  <img src="./assets/stack/powerbi.svg" alt="Power BI" width="107" height="26" />
+  <img src="./assets/stack/tableau.svg" alt="Tableau" width="101" height="26" />
+</p>
+
+---
 
 <a id="research-impact-and-technical-work"></a>
 
@@ -186,11 +193,7 @@ My first-author paper, *Hierarchical Deep Learning Framework for Diabetic Retino
 - Data engineering with ETL, Spark, Airflow, SQL, and NoSQL databases.
 - Evaluation approaches for class imbalance, cross-subject generalisation, explainability, and uncertainty.
 
-<a id="doctoral-research"></a>
-
-## Doctoral research
-
-My PhD project, *Multimodal Ocular Imaging for Neurodegenerative Disease Biomarkers*, investigates how ocular imaging and AI can support the study of biomarkers for neurodegenerative disease. The work brings together ocular imaging, medical AI, and neuroscience, and is supported by Research Ireland at Technological University Dublin.
+---
 
 <a id="notable-repositories"></a>
 
