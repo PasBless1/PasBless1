@@ -1,66 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="680" viewBox="0 0 2048 680" role="img" aria-labelledby="title desc">
-  <title id="title">Blessing Asare — Medical Imaging AI Engineer</title>
-  <desc id="desc">PhD Researcher at TU Dublin and Research Ireland Scholar, turning medical images into meaningful insights.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#050708"/><stop offset=".55" stop-color="#090d10"/><stop offset="1" stop-color="#0b1216"/>
-    </linearGradient>
-    <radialGradient id="leftGlow"><stop offset="0" stop-color="#08c8ce" stop-opacity=".18"/><stop offset="1" stop-color="#08c8ce" stop-opacity="0"/></radialGradient>
-    <radialGradient id="retina" cx=".43" cy=".45" r=".7">
-      <stop offset="0" stop-color="#123a3d"/><stop offset=".58" stop-color="#092529"/><stop offset="1" stop-color="#061315"/>
-    </radialGradient>
-    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#35e0dc"/><stop offset="1" stop-color="#08aeb9"/>
-    </linearGradient>
-    <pattern id="grain" width="32" height="32" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r=".8" fill="#bed0d3" fill-opacity=".07"/>
-    </pattern>
-    <clipPath id="retinaClip"><circle cx="315" cy="316" r="151"/></clipPath>
-  </defs>
-  <rect width="2048" height="680" rx="18" fill="url(#bg)"/>
-  <rect width="2048" height="680" rx="18" fill="url(#grain)"/>
-  <circle cx="315" cy="316" r="315" fill="url(#leftGlow)"/>
-  <circle cx="1700" cy="50" r="460" fill="url(#leftGlow)" opacity=".35"/>
-  <rect x="1" y="1" width="2046" height="678" rx="17" fill="none" stroke="#263238" stroke-width="2"/>
-  <path d="M640 72V608" stroke="#24343a" stroke-width="2"/>
-  <path d="M640 72V255" stroke="url(#cyan)" stroke-width="3"/>
-  <g>
-    <rect x="91" y="93" width="448" height="448" rx="34" fill="#071014" stroke="#087f89" stroke-opacity=".54" stroke-width="2"/>
-    <circle cx="315" cy="316" r="183" fill="none" stroke="#0ab5bd" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="3 10"/>
-    <circle cx="315" cy="316" r="163" fill="#050a0c" stroke="#14c9cf" stroke-opacity=".72" stroke-width="2"/>
-    <circle cx="315" cy="316" r="151" fill="url(#retina)"/>
-    <g clip-path="url(#retinaClip)" fill="none" stroke-linecap="round">
-      <path d="M303 323C275 306 248 275 214 247M284 310C267 285 260 254 244 224M280 310C250 313 222 303 190 286M278 318C248 332 218 348 188 371M292 330C268 357 252 390 238 423M306 335C298 368 301 402 291 443M318 336C322 368 337 398 342 430M325 321C354 300 387 291 425 284M321 310C347 279 365 251 377 222" stroke="#42dce0" stroke-width="3.4" stroke-opacity=".9"/>
-      <path d="M303 323C286 318 268 315 248 319M284 310C269 292 255 285 239 278M214 247L199 235M244 224L237 207M190 286L173 278M188 371L170 380M238 423L229 441M291 443L290 461M342 430L350 448M425 284L443 280M377 222L385 204M322 324C350 337 377 355 401 380M330 329C350 360 367 385 391 402" stroke="#11aab4" stroke-width="2.1" stroke-opacity=".78"/>
-      <path d="M214 247L203 247M190 286L181 294M188 371L177 365M238 423L224 428M342 430L355 426M425 284L437 292M401 380L412 393" stroke="#95f7ec" stroke-width="1.3" stroke-opacity=".68"/>
-      <circle cx="303" cy="323" r="9" fill="#b3fff3" stroke="none"/>
-    </g>
-    <g fill="none" stroke="#41dce0" stroke-opacity=".8" stroke-width="3">
-      <path d="M124 128h30M124 128v30M506 128h-30M506 128v30M124 504h30M124 504v-30M506 504h-30M506 504v-30"/>
-    </g>
-    <circle cx="303" cy="323" r="20" fill="none" stroke="#9bfaf0" stroke-opacity=".3" stroke-width="2"/>
-    <text x="315" y="579" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" fill="#8ebfc0" font-size="16" font-weight="700" letter-spacing="3">OCULAR IMAGING  /  AI</text>
-  </g>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <path d="M718 111h34" stroke="#29d5d6" stroke-width="4" stroke-linecap="round"/>
-    <text x="774" y="120" fill="#d7e3e6" font-size="25" font-weight="700" letter-spacing="7">BLESSING ASARE</text>
-    <text x="718" y="243" fill="#f4f7f8" font-size="86" font-weight="750" letter-spacing="1">MEDICAL IMAGING</text>
-    <text x="716" y="352" fill="#24d0d5" font-size="100" font-weight="750" letter-spacing=".5">AI ENGINEER</text>
-    <text x="720" y="413" fill="#edf4f5" font-size="33" font-weight="700">PhD Researcher</text>
-    <circle cx="1012" cy="402" r="5" fill="#18cbd0"/>
-    <text x="1037" y="413" fill="#edf4f5" font-size="33" font-weight="700">TU Dublin</text>
-    <text x="720" y="455" fill="#97b4b9" font-size="26" font-weight="600">Research Ireland Scholar</text>
-    <path d="M720 493h52" stroke="#e1b575" stroke-width="3" stroke-linecap="round"/>
-    <text x="720" y="543" fill="#dce6e8" font-size="32" font-weight="650">From medical images to meaningful insights.</text>
-  </g>
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="650" text-anchor="middle">
-    <rect x="720" y="575" width="207" height="40" rx="20" fill="#0b282c" stroke="#17666d"/>
-    <text x="823" y="601" fill="#9df4ed">EXPLAINABLE AI</text>
-    <rect x="942" y="575" width="204" height="40" rx="20" fill="#0b282c" stroke="#17666d"/>
-    <text x="1044" y="601" fill="#9df4ed">CAUSAL INFERENCE</text>
-    <rect x="1161" y="575" width="280" height="40" rx="20" fill="#0b282c" stroke="#17666d"/>
-    <text x="1301" y="601" fill="#9df4ed">UNCERTAINTY QUANTIFICATION</text>
-    <rect x="1456" y="575" width="116" height="40" rx="20" fill="#0b282c" stroke="#17666d"/>
-    <text x="1514" y="601" fill="#9df4ed">MLOps</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" role="img" aria-labelledby="title desc">
+<title id="title">Blessing Asare | Medical Imaging AI Engineer</title>
+<desc id="desc">From medical images to meaningful insights. An abstract fundus and OCT illustration accompanies Blessing Asare's medical imaging and AI profile.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1720"/><stop offset="1" stop-color="#102832"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#64D9C3" stop-opacity=".14"/><stop offset="1" stop-color="#64D9C3" stop-opacity="0"/></radialGradient>
+  <radialGradient id="fundus"><stop stop-color="#174B50"/><stop offset="1" stop-color="#0D272E"/></radialGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#58DCC1" stop-opacity=".22"/><stop offset="1" stop-color="#58DCC1" stop-opacity=".02"/></linearGradient>
+  <clipPath id="disc"><circle cx="1234" cy="173" r="82"/></clipPath>
+  <clipPath id="frame"><rect x="1028" y="42" width="500" height="376" rx="24"/></clipPath>
+</defs>
+<rect width="1600" height="460" rx="24" fill="url(#bg)"/>
+<g clip-path="url(#frame)"><circle cx="1320" cy="194" r="285" fill="url(#glow)"/></g>
+<path d="M78 62h30" stroke="#71DFC7" stroke-width="3" stroke-linecap="round"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="125" y="69" fill="#8EC4C6" font-size="16" font-weight="700" letter-spacing="3.2">MEDICAL IMAGING + AI</text>
+  <text x="74" y="178" fill="#F3F7F5" font-size="78" font-weight="700" letter-spacing="-2" textLength="595" lengthAdjust="spacingAndGlyphs">Blessing Asare</text>
+  <text x="78" y="233" fill="#79E0CC" font-size="31" font-weight="600">Medical Imaging AI Engineer</text>
+  <text x="78" y="302" fill="#C0D1D3" font-size="25">From medical images to meaningful insights.</text>
+  <path d="M78 351h48" stroke="#D9BF84" stroke-width="3" stroke-linecap="round"/>
+  <text x="144" y="358" fill="#8FAFB5" font-size="19">Research. Engineering. Clinical insight.</text>
+</g>
+<rect x="1028" y="42" width="500" height="376" rx="24" fill="#0A1C25" fill-opacity=".72" stroke="#31545B" stroke-width="1.4"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">
+  <text x="1059" y="77" fill="#8CAEB5">MULTIMODAL OCULAR IMAGING</text>
+  <circle cx="1496" cy="73" r="4" fill="#7DE3C4"/>
+</g>
+<path d="M1059 94h438" stroke="#29444B"/>
+<circle cx="1234" cy="173" r="88" fill="none" stroke="#577D81" stroke-opacity=".5" stroke-dasharray="2 7"/>
+<circle cx="1234" cy="173" r="82" fill="url(#fundus)" stroke="#78C6BA" stroke-opacity=".5"/>
+<g clip-path="url(#disc)" fill="none" stroke-linecap="round">
+  <path d="M1214 182C1197 168 1181 144 1157 130M1202 172C1191 153 1188 131 1179 110M1200 176C1179 180 1161 173 1140 163M1205 187C1186 205 1177 225 1167 247M1216 191C1210 213 1213 235 1206 260M1221 184C1242 166 1264 157 1295 153M1220 175C1238 156 1252 134 1261 111M1223 191C1247 197 1269 213 1291 232" stroke="#63DAC5" stroke-width="2.2"/>
+  <path d="M1196 165C1184 156 1173 151 1160 148M1182 199L1160 207M1249 162L1268 135M1247 199L1256 226M1211 222L1199 242M1280 159L1298 166" stroke="#91BFAA" stroke-width="1.2" opacity=".65"/>
+  <ellipse cx="1215" cy="184" rx="7" ry="10" fill="#DFCE9C" fill-opacity=".9" stroke="none"/>
+</g>
+<path d="M1090 173h23M1355 173h23" stroke="#64B9AC" stroke-opacity=".5"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.7" fill="#8DB3B8">
+  <text x="1411" y="163">FUNDUS</text>
+  <text x="1411" y="187" fill="#4E7B83">01</text>
+</g>
+<path d="M1059 271h438" stroke="#29444B"/>
+<rect x="1059" y="294" width="313" height="86" rx="10" fill="#071820" stroke="#29474C"/>
+<g>
+  <path d="M1065 319C1102 308 1135 317 1163 331S1216 349 1250 331S1315 310 1366 321V375H1065Z" fill="url(#scan)"/>
+  <path d="M1065 319C1102 308 1135 317 1163 331S1216 349 1250 331S1315 310 1366 321" fill="none" stroke="#80DFC5" stroke-width="2"/>
+  <path d="M1065 329C1102 318 1135 327 1163 341S1216 359 1250 341S1315 320 1366 331" fill="none" stroke="#4C9E91" stroke-width="1.4"/>
+  <path d="M1065 339C1102 328 1135 337 1163 351S1216 369 1250 351S1315 330 1366 341" fill="none" stroke="#487975" stroke-width="1.2"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.7" fill="#8DB3B8">
+  <text x="1411" y="328">OCT</text>
+  <text x="1411" y="352" fill="#4E7B83">02</text>
+</g>
 </svg>
