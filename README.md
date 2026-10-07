@@ -211,6 +211,8 @@ You can explore the projects behind this profile here:
 
 ## GitHub activity
 
+<!-- github-activity:auto:start -->
+
 <p align="center">
   <a href="https://github.com/PasBless1?tab=overview&amp;from=2026-01-01&amp;to=2026-12-31">
     <img src="https://github-stats-extended.vercel.app/api?username=PasBless1&amp;commits_year=2026&amp;show_icons=true&amp;card_width=640&amp;custom_title=Blessing%20Asare%27s%20GitHub%20Stats&amp;bg_color=262626&amp;title_color=ffc02a&amp;text_color=94c87b&amp;icon_color=ff8b18&amp;ring_color=ffc02a&amp;border_color=d4d4d4&amp;disable_animations=true&amp;number_format=long" alt="Blessing Asare's GitHub statistics, including total commits in calendar year 2026" width="640" />
@@ -230,6 +232,8 @@ You can explore the projects behind this profile here:
 </p>
 
 <p align="center"><sub>Public GitHub activity · Commits shown separately for calendar years 2025 and 2026 · Language percentages reflect repository contents.</sub></p>
+
+<!-- github-activity:auto:end -->
 
 ---
 
