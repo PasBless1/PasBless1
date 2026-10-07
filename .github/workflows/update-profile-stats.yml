@@ -1,0 +1,112 @@
+name: Refresh profile statistics
+
+on:
+  schedule:
+    # Offset from the start of each hour to reduce queueing delays.
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'assets/github-activity/**'
+  pull_request:
+    paths:
+      - '.github/workflows/update-profile-stats.yml'
+      - 'scripts/profile-stats*.mjs'
+      - 'README.md'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-statistics-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - name: Test scoped updates, error handling and year rollover
+        run: node --test scripts/profile-stats.test.mjs
+
+  refresh:
+    needs: validate
+    if: >-
+      github.repository == 'PasBless1/PasBless1' &&
+      github.ref == 'refs/heads/main' &&
+      github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+      - name: Prepare current and previous calendar years
+        id: options
+        run: node scripts/profile-stats.mjs options
+
+      - name: Generate current-year statistics directly from GitHub
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: ${{ steps.options.outputs.current }}
+          path: assets/github-activity/stats-current.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: '2.2.0'
+          fail_on_error: 'true'
+
+      - name: Generate last-year commits directly from GitHub
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: ${{ steps.options.outputs.previous }}
+          path: assets/github-activity/stats-last-year.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: '2.2.0'
+          fail_on_error: 'true'
+
+      - name: Generate languages directly from GitHub
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: ${{ steps.options.outputs.languages }}
+          path: assets/github-activity/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: '2.2.0'
+          fail_on_error: 'true'
+
+      - name: Validate generated SVG files
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from xml.etree import ElementTree
+          for name in ('stats-current.svg', 'stats-last-year.svg', 'languages.svg'):
+              root = ElementTree.parse(Path('assets/github-activity') / name).getroot()
+              if root.tag != '{http://www.w3.org/2000/svg}svg':
+                  raise ValueError(f'Invalid SVG root in {name}')
+          PY
+
+      - name: Update only the activity image references
+        env:
+          STATS_YEAR: ${{ steps.options.outputs.year }}
+        run: node scripts/profile-stats.mjs apply "$STATS_YEAR"
+
+      - name: Commit only when cards change
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md assets/github-activity/stats-current.svg assets/github-activity/stats-last-year.svg assets/github-activity/languages.svg
+          if git diff --cached --quiet; then
+            echo 'Statistics are unchanged; no commit needed.'
+            exit 0
+          fi
+          git commit -m 'Refresh GitHub activity cards [skip ci]'
+          # Never force-push over a concurrent human change. The next run retries.
+          git push origin HEAD:main
