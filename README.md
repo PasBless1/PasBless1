@@ -215,19 +215,19 @@ You can explore the projects behind this profile here:
 
 <p align="center">
   <a href="https://github.com/PasBless1?tab=overview&amp;from=2026-01-01&amp;to=2026-12-31">
-    <img src="https://github-stats-extended.vercel.app/api?username=PasBless1&amp;commits_year=2026&amp;show_icons=true&amp;card_width=640&amp;custom_title=Blessing%20Asare%27s%20GitHub%20Stats&amp;bg_color=262626&amp;title_color=ffc02a&amp;text_color=94c87b&amp;icon_color=ff8b18&amp;ring_color=ffc02a&amp;border_color=d4d4d4&amp;disable_animations=true&amp;number_format=long" alt="Blessing Asare's GitHub statistics, including total commits in calendar year 2026" width="640" />
+    <img src="./assets/github-activity/stats-current.svg?v=b867600183438cf4" alt="Blessing Asare's GitHub statistics, including total commits in calendar year 2026" width="640" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/PasBless1?tab=overview&amp;from=2025-01-01&amp;to=2025-12-31">
-    <img src="https://github-stats-extended.vercel.app/api?username=PasBless1&amp;commits_year=2025&amp;hide=stars,prs,issues,contribs&amp;hide_rank=true&amp;show_icons=true&amp;card_width=640&amp;custom_title=Total%20Commits%20Last%20Year%20%282025%29&amp;bg_color=262626&amp;title_color=ffc02a&amp;text_color=94c87b&amp;icon_color=ff8b18&amp;border_color=d4d4d4&amp;disable_animations=true&amp;number_format=long" alt="Total commits last year: Blessing Asare's public GitHub commits in calendar year 2025" width="640" />
+    <img src="./assets/github-activity/stats-last-year.svg?v=f039f39883f46959" alt="Total commits last year: Blessing Asare's public GitHub commits in calendar year 2025" width="640" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/PasBless1?tab=repositories">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PasBless1&amp;layout=compact&amp;langs_count=6&amp;card_width=640&amp;custom_title=Most%20Used%20Languages&amp;bg_color=ffffff&amp;title_color=2f80ed&amp;text_color=434d58&amp;border_color=d4d4d4&amp;disable_animations=true" alt="Most used languages across Blessing Asare's public repositories" width="640" />
+    <img src="./assets/github-activity/languages.svg?v=16e13a6f6292b7fa" alt="Most used languages across Blessing Asare's public repositories" width="640" />
   </a>
 </p>
 
