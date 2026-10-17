@@ -215,7 +215,7 @@ You can explore the projects behind this profile here:
 
 <p align="center">
   <a href="https://github.com/PasBless1?tab=overview&amp;from=2026-01-01&amp;to=2026-12-31">
-    <img src="./assets/github-activity/stats-current.svg?v=5cccac0411ee584f" alt="Blessing Asare's GitHub statistics, including total commits in calendar year 2026" width="640" />
+    <img src="./assets/github-activity/stats-current.svg?v=393b2ae411d72293" alt="Blessing Asare's GitHub statistics, including total commits in calendar year 2026" width="640" />
   </a>
 </p>
 
@@ -227,7 +227,7 @@ You can explore the projects behind this profile here:
 
 <p align="center">
   <a href="https://github.com/PasBless1?tab=repositories">
-    <img src="./assets/github-activity/languages.svg?v=ea30476aafeefad0" alt="Most used languages across Blessing Asare's public repositories" width="640" />
+    <img src="./assets/github-activity/languages.svg?v=7e66395b9aca294d" alt="Most used languages across Blessing Asare's public repositories" width="640" />
   </a>
 </p>
 
