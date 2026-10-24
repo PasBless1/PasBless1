@@ -1,7 +1,7 @@
 <a id="profile-overview"></a>
 
 <p align="center">
-  <img src="./assets/profile-header-polished.svg" alt="Blessing Asare, Medical Imaging AI Engineer. PhD Researcher at TU Dublin and Research Ireland Scholar. From medical images to meaningful insights." width="100%" />
+  <img src="./assets/profile-header-paper.svg" alt="Blessing Asare, Medical Imaging AI Engineer. PhD Researcher at TU Dublin and Research Ireland Scholar. From medical images to meaningful insights." width="100%" />
 </p>
 
 <p align="center">
